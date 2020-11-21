@@ -1,0 +1,55 @@
+State,,,Turnout Rates,,,Numerators,,Denominators,,VEP Components (Modifications to VAP to Calculate VEP),,,,,,
+,State Results Website,Status,VEP Total Ballots Counted,VEP Highest Office,VAP Highest Office,Total Ballots Counted (Estimate),Highest Office,Voting-Eligible Population (VEP),Voting-Age Population (VAP),% Non-citizen,Prison,Probation,Parole,Total Ineligible Felon,Overseas Eligible,State Abv
+United States,,,60.1%,59.2%,54.7%,"138,846,571","136,753,936","230,931,921","250,055,734",8.3%,"1,416,810","2,198,907","506,297","3,176,484","4,739,596",
+Alabama,http://www.alabamavotes.gov/downloads/election/2016/general/2016-Official-General-Election-Results-Certified-2016-11-29.pdf,Official,59.1%,58.8%,56.3%,"2,134,061","2,123,372","3,609,447","3,770,142",2.5%,"28,680","52,177","8,562","66,983",,AL
+Alaska,http://www.elections.alaska.gov/results/16GENR/,Official,61.5%,61.0%,57.4%,"321,271","318,608","522,679","555,367",4.1%,"4,317","6,621","1,812","9,903",,AK
+Arizona,http://apps.azsos.gov/election/2016/General/Official%20Signed%20State%20Canvass.pdf,Official,56.1%,54.9%,48.9%,"2,661,497","2,604,657","4,740,310","5,331,034",9.4%,"37,582","77,373","7,500","89,185",,AZ
+Arkansas,http://results.enr.clarityelections.com/AR/63912/182850/Web01/en/summary.html,Official,53.2%,52.8%,49.4%,"1,137,772","1,130,635","2,140,097","2,286,625",3.8%,"17,242","30,881","23,792","58,636",,AR
+California,http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-8-2016/statement-vote/,Official,58.2%,56.5%,47.0%,"14,610,509","14,181,595","25,104,844","30,201,571",16.4%,"130,390",0,0,"130,390",,CA
+Colorado,http://results.enr.clarityelections.com/CO/63746/182883/Web01/en/summary.html,Official,71.9%,70.0%,64.6%,"2,859,216","2,780,247","3,974,405","4,305,728",7.0%,"18,576",0,"10,186","28,762",,CO
+Connecticut,http://ctemspublic.pcctg.net/#/home,Official,64.9%,63.7%,58.3%,"1,675,955","1,644,920","2,582,761","2,821,935",7.8%,"14,475",0,"3,379","17,854",,CT
+Delaware,http://elections.delaware.gov/results/html/election.shtml,Official,64.4%,64.2%,59.2%,"445,228","443,814","691,720","749,872",5.7%,"6,254","15,395",387,"15,416",,DE
+District of Columbia,https://www.dcboee.org/election_info/election_results/v3/2016/November-8-General-Election,Official,60.7%,60.4%,55.4%,"312,575","311,268","515,248","562,329",8.4%,0,0,0,0,,DC
+Florida,http://enight.elections.myflorida.com/FederalOffices/Presidential/,Official,65.6%,64.5%,56.9%,"9,580,489","9,420,039","14,601,066","16,565,588",10.5%,"92,847","214,066","4,566","219,431",,FL
+Georgia,http://results.enr.clarityelections.com/GA/63991/182885/en/summary.html,Official,59.8%,59.1%,52.6%,"4,165,405","4,114,732","6,959,963","7,828,207",7.2%,"51,092","410,964","22,386","307,727",,GA
+Hawaii,http://elections.hawaii.gov/wp-content/results/histatewide.pdf,Official,43.2%,42.3%,38.3%,"437,664","428,937","1,012,860","1,120,465",9.1%,"5,474",0,0,"5,474",,HI
+Idaho,http://www.sos.idaho.gov/elect/results/2016/General/statewide_totals.html,Official,60.9%,59.2%,55.0%,"710,545","690,255","1,166,706","1,253,925",4.4%,"7,949","32,409","5,054","31,476",,ID
+Illinois,https://www.elections.il.gov/ElectionResults.aspx?ID=vlS7uG8NT%2f0%3d,Offiical,63.1%,62.2%,56.7%,"5,666,118","5,589,631","8,985,443","9,866,799",8.5%,"42,017",0,0,"42,017",,IL
+Indiana,http://www.in.gov/apps/sos/election/general/general2016,Official,57.9%,56.4%,54.0%,"2,807,676","2,734,958","4,849,937","5,063,393",3.7%,"24,948",0,0,"24,948",,IN
+Iowa,https://electionresults.sos.iowa.gov/Views/TabularData.aspx?TabView=StateRaces^Federal%20/%20Statewide%20Races^86&ElectionID=86,Official,69.1%,68.4%,65.1%,"1,581,371","1,566,031","2,288,536","2,406,915",3.6%,"8,888","29,254","6,051","31,614",,IA
+Kansas,http://www.kssos.org/elections/16elec/2016_General_Election_Official_Results.pdf,Official,59.7%,57.7%,54.0%,"1,225,667","1,184,402","2,054,025","2,192,423",5.2%,"9,613","16,654","4,830","23,936",,KS
+Kentucky,http://elect.ky.gov/results/2010-2019/Documents/2016%20General%20Election%20Results.pdf,Offiical,59.6%,58.6%,56.1%,"1,955,195","1,924,149","3,282,420","3,430,652",2.4%,"22,868","48,457","15,383","65,871",,KY
+Louisiana,https://voterportal.sos.la.gov/Graphical,Official,60.6%,60.0%,56.8%,"2,049,531","2,029,032","3,384,435","3,571,652",2.7%,"35,543","40,174","30,907","89,349",,LA
+Maine,http://www.maine.gov/sos/cec/elec/results/results16-17.html#nov,Official,72.9%,70.7%,69.4%,"771,892","747,927","1,058,372","1,078,037",1.8%,0,0,0,0,,ME
+Maryland,http://elections.maryland.gov/elections/2016/results/General/gen_results_2016_4_001-.html,Official,67.0%,66.4%,59.5%,"2,807,322","2,781,446","4,189,616","4,670,900",8.8%,"19,382","72,529","10,305","71,029",,MD
+Massachusetts,http://www.sec.state.ma.us/ele/elepdf/2016-Electors-Certification.pdf,Offiical,68.3%,67.2%,61.1%,"3,378,801","3,325,046","4,948,028","5,442,458",8.9%,"8,780",0,0,"8,780",,MA
+Michigan,http://miboecfr.nictusa.com/election/results/2016GEN_CENR.html,Official,65.7%,64.7%,62.0%,"4,874,619","4,799,284","7,420,628","7,744,567",3.7%,"40,502",0,0,"40,502",,MI
+Minnesota,http://www.sos.state.mn.us/elections-voting/2016-general-election-results/,Official,74.7%,74.1%,69.4%,"2,968,281","2,944,813","3,973,204","4,240,423",4.6%,"10,158","96,852","7,075","72,439",,MN
+Mississippi,http://www.sos.ms.gov/Elections-Voting/Pages/2016-General-Election.aspx,Official,,55.2%,53.3%,,"1,209,357","2,191,241","2,268,089",1.4%,"19,150","29,067","8,645","44,363",,MS
+Missouri,http://enr.sos.mo.gov/enrnet/default.aspx?eid=750003949,Official,62.2%,62.2%,59.6%,"2,811,549","2,808,605","4,517,925","4,710,784",2.5%,"31,956","43,799","17,792","74,713",,MO
+Montana,http://mtelectionresults.gov/,Official,64.3%,61.8%,60.8%,"516,901","497,147","804,250","817,702",1.2%,"3,795",0,0,"3,795",,MT
+Nebraska,http://www.sos.ne.gov/elec/2016/pdf/2016-canvass-book.pdf,Official,64.0%,62.8%,58.8%,"860,573","844,227","1,343,821","1,436,437",5.5%,"5,079","13,489","1,088","13,856",,NE
+Nevada,http://silverstateelection.com/,Official,57.4%,57.4%,49.4%,"1,125,429","1,125,385","1,961,587","2,276,281",12.6%,"13,742","13,724","5,261","26,826",,NV
+New Hampshire,http://sos.nh.gov/2016GenResults.aspx,Official,72.5%,71.4%,69.1%,"755,850","744,296","1,042,795","1,076,739",2.9%,"2,818",0,0,"2,818",,NH
+New Jersey,http://www.state.nj.us/state/elections/2016-results/2016-official-general-results-president-1206b.pdf,Official,65.8%,64.4%,55.7%,"3,957,303","3,874,046","6,013,656","6,959,892",12.0%,"18,504","140,589","15,128","113,768",,NJ
+New Mexico,http://electionresults.sos.state.nm.us/,Official,54.9%,54.5%,50.2%,"804,043","798,319","1,464,515","1,591,069",6.9%,"6,914","12,714","2,780","16,941",,NM
+New York,http://www.elections.ny.gov/2016ElectionResults.html,Official,57.2%,56.8%,49.6%,"7,786,881","7,721,453","13,604,645","15,557,982",12.0%,"46,416",0,"44,426","90,842",,NY
+North Carolina,http://er.ncsbe.gov/?election_dt=11/08/2016&county_id=0&office=FED&contest=0,Official,64.9%,64.5%,60.2%,"4,769,640","4,741,564","7,352,501","7,880,013",5.5%,"34,357","82,466","12,726","94,089",,NC
+North Dakota,http://results.sos.nd.gov/resultsSW.aspx?text=Race&type=SW&map=CTY,Official,61.7%,60.8%,59.3%,"349,945","344,360","566,783","581,188",2.2%,"1,791",0,0,"1,791",,ND
+Ohio,https://vote.ohio.gov/,Official,64.2%,62.9%,61.0%,"5,607,641","5,496,487","8,736,808","9,007,953",2.4%,"51,666",0,0,"51,666",,OH
+Oklahoma,https://www.ok.gov/elections/support/20161108_seb.html,Official,,52.3%,49.0%,,"1,452,992","2,778,219","2,965,905",4.7%,"26,691","33,562","1,895","47,716",,OK
+Oregon,http://sos.oregon.gov/elections/Documents/results/november-2016-results.pdf,Official,68.0%,66.2%,61.7%,"2,056,310","2,001,336","3,024,174","3,244,277",6.3%,"15,166",0,0,"15,166",,OR
+Pennsylvania,http://www.electionreturns.pa.gov/ENR_New/General/CountyBreakDownResults?officeId=1&districtId=1&ElectionID=undefined&ElectionType=undefined&IsActive=undefined,Official,,63.6%,61.0%,,"6,165,478","9,691,160","10,108,486",3.7%,"48,098",0,0,"48,098",,PA
+Rhode Island,http://www.ri.gov/election/results/2016/general_election/,Official,59.7%,59.1%,54.7%,"469,589","464,144","786,012","848,975",7.1%,"3,038",0,0,"3,038",,RI
+South Carolina,http://www.enr-scvotes.org/SC/64658/182853/en/summary.html,Official,57.3%,56.7%,54.2%,"2,123,584","2,103,027","3,709,283","3,883,145",3.4%,"20,350","32,634","4,347","43,298",,SC
+South Dakota,https://sdsos.gov/elections-voting/assets/2016GeneralElectionOfficialStateCanvass.pdf,Official,60.0%,58.6%,56.6%,"378,995","370,093","631,173","653,841",2.5%,"3,744",0,"2,687","6,431",,SD
+Tennessee,http://sos-tn-gov-files.s3.amazonaws.com/PresidentbyCountyNov2016.pdf,Official,51.8%,51.1%,48.6%,"2,545,271","2,508,027","4,909,426","5,164,969",3.5%,"27,906","62,609","12,092","75,685",,TN
+Texas,http://elections.sos.state.tx.us/elchist319_state.htm,Official,51.4%,51.4%,43.4%,"8,975,000","8,969,226","17,448,910","20,671,564",13.3%,"155,327","374,285","111,287","479,956",,TX
+Utah,https://elections.utah.gov/election-resources/2016-election-information,Official,57.9%,56.8%,52.8%,"1,152,369","1,131,430","1,991,885","2,144,784",6.9%,"5,846",0,0,"5,846",,UT
+Vermont,https://vtelectionresults.sec.state.vt.us/Index.html#/state,Official,64.8%,63.7%,62.3%,"320,467","315,067","494,871","506,048",2.2%,0,0,0,0,,VT
+Virginia,http://results.elections.virginia.gov/vaelections/2016%20November%20General/Site/Presidential.html,Official,,66.1%,60.8%,,"3,984,631","6,027,152","6,551,390",6.9%,"36,959","60,821","1,650","73,277",,VA
+Washington,http://results.vote.wa.gov/results/current/,Final,65.7%,64.7%,58.3%,"3,363,440","3,317,019","5,123,020","5,691,833",8.6%,"18,335","89,317","11,322","80,568",,WA
+West Virginia,http://services.sos.wv.gov/apps/elections/results/,Official,,50.2%,49.2%,,"714,423","1,423,031","1,453,201",1.1%,"7,137","6,523","3,550","14,405",,WV
+Wisconsin,http://elections.wi.gov/sites/default/files/Statewide%20Results%20All%20Offices%20%28post-Presidential%20recount%29.pdf,Official,,69.5%,66.2%,,"2,976,150","4,285,071","4,495,783",3.2%,"22,889","44,489","20,401","68,649",,WI
+Wyoming,http://soswy.state.wy.us/Elections/Docs/2016/2016GeneralResults.aspx,Official,60.2%,59.5%,57.3%,"258,788","255,849","429,682","446,396",2.4%,"2,323","4,666",842,"5,825",,WY
+Note: Illinois highest vote includes write-in votes obtained from counties which include write-ins for official (the state only reports these) and unofficial write-in candidates ,,,,,,,,,,,,,,,,

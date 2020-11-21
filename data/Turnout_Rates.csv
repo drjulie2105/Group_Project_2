@@ -1,4 +1,3 @@
-,,,State,Turnout Rates,,,Numerators,,Denominators,,VEP Components (Modifications to VAP to Calculate VEP),,,,,
 Year,ICPSR State Code,Alphanumeric State Code,,VEP Total Ballots Counted,VEP Highest Office,VAP Highest Office,Total Ballots Counted,Highest Office,Voting-Eligible Population (VEP),Voting-Age Population (VAP),% Non-citizen,Prison,Probation,Parole,Total Ineligible Felon,Overseas Eligible
 2014,0,0,United States,36.7%,36.0%,33.2%,"83,262,122","81,687,059","227,157,964","245,712,915",8.4%,"1,493,706","2,298,993","548,576","3,329,718","5,345,814"
 2014,41,1,Alabama,33.2%,32.9%,31.5%,"1,191,274","1,180,413","3,588,783","3,751,844",2.5%,"31,691","53,640","8,097","69,826",
