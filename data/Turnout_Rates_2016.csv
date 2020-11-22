@@ -1,5 +1,4 @@
-State,,,Turnout Rates,,,Numerators,,Denominators,,VEP Components (Modifications to VAP to Calculate VEP),,,,,,
-,State Results Website,Status,VEP Total Ballots Counted,VEP Highest Office,VAP Highest Office,Total Ballots Counted (Estimate),Highest Office,Voting-Eligible Population (VEP),Voting-Age Population (VAP),% Non-citizen,Prison,Probation,Parole,Total Ineligible Felon,Overseas Eligible,State Abv
+State Results Website,Status,VEP Total Ballots Counted,VEP Highest Office,VAP Highest Office,Total Ballots Counted (Estimate),Highest Office,Voting-Eligible Population (VEP),Voting-Age Population (VAP),% Non-citizen,Prison,Probation,Parole,Total Ineligible Felon,Overseas Eligible,State Abv
 United States,,,60.1%,59.2%,54.7%,"138,846,571","136,753,936","230,931,921","250,055,734",8.3%,"1,416,810","2,198,907","506,297","3,176,484","4,739,596",
 Alabama,http://www.alabamavotes.gov/downloads/election/2016/general/2016-Official-General-Election-Results-Certified-2016-11-29.pdf,Official,59.1%,58.8%,56.3%,"2,134,061","2,123,372","3,609,447","3,770,142",2.5%,"28,680","52,177","8,562","66,983",,AL
 Alaska,http://www.elections.alaska.gov/results/16GENR/,Official,61.5%,61.0%,57.4%,"321,271","318,608","522,679","555,367",4.1%,"4,317","6,621","1,812","9,903",,AK
