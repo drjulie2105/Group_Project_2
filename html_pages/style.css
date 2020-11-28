@@ -16,11 +16,6 @@
     margin-left: 30px;
 }
 
-.flag-image {
-    size: 25%;
-    float: right;
-    margin-top: 0px;
-}
 
 .paragraph {
     font-size: 25px;
@@ -28,6 +23,7 @@
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25px;
     margin-top: 25px;
+    
 }
 
 .sub_header {
@@ -35,18 +31,38 @@
     font-weight: bold;
     color: black;
     font-family: 'Times New Roman', Times, serif;
+    margin-top: 125px;
 }
-.flag-image {
-    margin-top: 50px;
-}
-
 
 body {
-    background-color: rgb(244, 179, 179);
+    background-color: rgb(242, 188, 188);
 }
 
 .bio_images {
-    margin-top: 25px;
+    margin-top: 135px;
+}
+
+.flag_pic {
+    float: right;
+    margin-top: 175px;
+}
+
+#map_1,
+body,
+html {
+  height: 100%;
+}
+
+#map_2,
+body,
+html {
+  height: 100%;
+}
+
+#map_3,
+body,
+html {
+  height: 100%;
 }
 
 
