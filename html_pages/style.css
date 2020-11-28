@@ -1,0 +1,52 @@
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+.nav-link {
+    font-size: 25px;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+
+.flag-image {
+    size: 25%;
+    float: right;
+    margin-top: 0px;
+}
+
+.paragraph {
+    font-size: 25px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.sub_header {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.flag-image {
+    margin-top: 50px;
+}
+
+
+body {
+    background-color: rgb(244, 179, 179);
+}
+
+.bio_images {
+    margin-top: 25px;
+}
+
+
