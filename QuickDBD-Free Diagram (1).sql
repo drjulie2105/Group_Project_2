@@ -192,8 +192,8 @@ CREATE TABLE "turnout_2016" (
      )
 );
 
-ALTER TABLE "2000_Democrate" ADD CONSTRAINT "fk_2000_Democrate_year" FOREIGN KEY("year")
-REFERENCES "2000_Republican" ("year");
+ALTER TABLE "2000_Democrate" ADD CONSTRAINT "fk_2000_Democrate_state_year" FOREIGN KEY("state", "year")
+REFERENCES "2000_Republican" ("state", "year");
 
 ALTER TABLE "2004_Democrate" ADD CONSTRAINT "fk_2004_Democrate_state" FOREIGN KEY("state")
 REFERENCES "2000_Democrate" ("state");
@@ -201,29 +201,20 @@ REFERENCES "2000_Democrate" ("state");
 ALTER TABLE "2004_Democrate" ADD CONSTRAINT "fk_2004_Democrate_year" FOREIGN KEY("year")
 REFERENCES "2004_Republican" ("year");
 
-ALTER TABLE "2008_Democrate" ADD CONSTRAINT "fk_2008_Democrate_state" FOREIGN KEY("state")
-REFERENCES "2004_Democrate" ("state");
+ALTER TABLE "2008_Democrate" ADD CONSTRAINT "fk_2008_Democrate_state_year" FOREIGN KEY("state", "year")
+REFERENCES "2008_Republican" ("state", "year");
 
-ALTER TABLE "2008_Democrate" ADD CONSTRAINT "fk_2008_Democrate_year" FOREIGN KEY("year")
-REFERENCES "2008_Republican" ("year");
+ALTER TABLE "2012_Democrate" ADD CONSTRAINT "fk_2012_Democrate_state_year" FOREIGN KEY("state", "year")
+REFERENCES "2012_Republican" ("state", "year");
 
-ALTER TABLE "2012_Democrate" ADD CONSTRAINT "fk_2012_Democrate_state" FOREIGN KEY("state")
-REFERENCES "2008_Democrate" ("state");
-
-ALTER TABLE "2012_Democrate" ADD CONSTRAINT "fk_2012_Democrate_year" FOREIGN KEY("year")
-REFERENCES "2012_Republican" ("year");
-
-ALTER TABLE "2016_Democrate" ADD CONSTRAINT "fk_2016_Democrate_state" FOREIGN KEY("state")
-REFERENCES "2012_Democrate" ("state");
-
-ALTER TABLE "2016_Democrate" ADD CONSTRAINT "fk_2016_Democrate_year" FOREIGN KEY("year")
-REFERENCES "2016_Republican" ("year");
+ALTER TABLE "2016_Democrate" ADD CONSTRAINT "fk_2016_Democrate_state_year" FOREIGN KEY("state", "year")
+REFERENCES "2016_Republican" ("state", "year");
 
 ALTER TABLE "2000_Republican" ADD CONSTRAINT "fk_2000_Republican_state_year" FOREIGN KEY("state", "year")
 REFERENCES "turnout_2000" ("State", "Year");
 
 ALTER TABLE "2004_Republican" ADD CONSTRAINT "fk_2004_Republican_state" FOREIGN KEY("state")
-REFERENCES "turnout_2004" ("State");
+REFERENCES "2004_Democrate" ("state");
 
 ALTER TABLE "2008_Republican" ADD CONSTRAINT "fk_2008_Republican_state" FOREIGN KEY("state")
 REFERENCES "turnout_2008" ("State");
