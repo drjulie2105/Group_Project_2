@@ -1,4 +1,4 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/VNWqPM
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
@@ -188,32 +188,32 @@ CREATE TABLE "turnout_2016" (
      )
 );
 
-ALTER TABLE "Democrat_2000" ADD CONSTRAINT "fk_Democrat_2000_state_year" FOREIGN KEY("state", "year")
-REFERENCES "Republican_2000" ("state", "year");
+ALTER TABLE "Democrat_2000" ADD CONSTRAINT "fk_Democrat_2000_state_year" FOREIGN KEY("state")
+REFERENCES "Republican_2000" ("state");
 
 ALTER TABLE "Democrat_2004" ADD CONSTRAINT "fk_Democrat_2004_state" FOREIGN KEY("state")
 REFERENCES "Democrat_2000" ("state");
 
-ALTER TABLE "Democrat_2004" ADD CONSTRAINT "fk_Democrat_2004_year" FOREIGN KEY("year")
-REFERENCES "Republican_2004" ("year");
+ALTER TABLE "Democrat_2004" ADD CONSTRAINT "fk_Democrat_2004_year" FOREIGN KEY("state")
+REFERENCES "Republican_2004" ("state");
 
 ALTER TABLE "Democrat_2008" ADD CONSTRAINT "fk_Democrat_2008_state" FOREIGN KEY("state")
 REFERENCES "Democrat_2004" ("state");
 
-ALTER TABLE "Democrat_2008" ADD CONSTRAINT "fk_Democrat_2008_year" FOREIGN KEY("year")
-REFERENCES "Republican_2008" ("year");
+ALTER TABLE "Democrat_2008" ADD CONSTRAINT "fk_Democrat_2008_year" FOREIGN KEY("state")
+REFERENCES "Republican_2008" ("state");
 
 ALTER TABLE "Democrat_2012" ADD CONSTRAINT "fk_Democrat_2012_state" FOREIGN KEY("state")
 REFERENCES "Democrat_2008" ("state");
 
-ALTER TABLE "Democrat_2012" ADD CONSTRAINT "fk_Democrat_2012_year" FOREIGN KEY("year")
-REFERENCES "Republican_2012" ("year");
+ALTER TABLE "Democrat_2012" ADD CONSTRAINT "fk_Democrat_2012_year" FOREIGN KEY("state")
+REFERENCES "Republican_2012" ("state");
 
 ALTER TABLE "Democrat_2016" ADD CONSTRAINT "fk_Democrat_2016_state" FOREIGN KEY("state")
 REFERENCES "Democrat_2012" ("state");
 
-ALTER TABLE "Democrat_2016" ADD CONSTRAINT "fk_Democrat_2016_year" FOREIGN KEY("year")
-REFERENCES "Republican_2016" ("year");
+ALTER TABLE "Democrat_2016" ADD CONSTRAINT "fk_Democrat_2016_year" FOREIGN KEY("state")
+REFERENCES "Republican_2016" ("state");
 
 ALTER TABLE "Republican_2000" ADD CONSTRAINT "fk_Republican_2000_state_year" FOREIGN KEY("state", "year")
 REFERENCES "turnout_2000" ("State", "Year");
