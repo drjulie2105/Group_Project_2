@@ -1,5 +1,7 @@
 # Group_Project_2
 
+![](images/POLITICAL.png | width="400" height="200") 
+
 ## Project Proposal
 
 Please click this link below to see the project proposal 
