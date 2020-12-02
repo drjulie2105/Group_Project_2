@@ -1,7 +1,3 @@
-
-  //........................................................................................
-  // Line graph
-
 // Define SVG area dimensions
 var svgWidth = 960;
 var svgHeight = 500;
@@ -29,18 +25,18 @@ var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // Configure a parseTime function which will return a new Date object from a string
-var parseTime = d3.timeParse("%B");
+// var parseTime = d3.timeParse("%B");
 
-// Load data from election-walked-this-month.csv
-d3.csv("election-data.csv").then(function(electionData) {
+// Load data from miles-walked-this-month.csv
+d3.csv("democrat_2000.csv").then(function(electionData) {
 
-  // Print the electionData
+  // Print the milesData
   console.log(electionData);
 
-  // Format the date and cast the election value to a number
+  // Format the date and cast the miles value to a number
   electionData.forEach(function(data) {
-    data.date = parseTime(data.date);
-    data.election = +data.election;
+    data.state = +data.state;
+    data.candidatevotes = +data.candidatevotes;
   });
 
   // Configure a time scale with a range between 0 and the chartWidth
@@ -48,13 +44,13 @@ d3.csv("election-data.csv").then(function(electionData) {
   // d3.extent returns the an array containing the min and max values for the property specified
   var xTimeScale = d3.scaleTime()
     .range([0, chartWidth])
-    .domain(d3.extent(electionData, data => data.date));
+    .domain(d3.extent(electionData, data => data.state));
 
   // Configure a linear scale with a range between the chartHeight and 0
   // Set the domain for the xLinearScale function
   var yLinearScale = d3.scaleLinear()
     .range([chartHeight, 0])
-    .domain([0, d3.max(electionData, data => data.election)]);
+    .domain([0, d3.max(electionData, data => data.candidatevotes)]);
 
   // Create two new functions passing the scales in as arguments
   // These will be used to create the chart's axes
@@ -64,12 +60,12 @@ d3.csv("election-data.csv").then(function(electionData) {
   // Configure a drawLine function which will use our scales to plot the line's points
   var drawLine = d3
     .line()
-    .x(data => xTimeScale(data.date))
-    .y(data => yLinearScale(data.election));
+    .x(data => xTimeScale(data.state))
+    .y(data => yLinearScale(data.candidatevotes));
 
   // Append an SVG path and plot its points using the line function
   chartGroup.append("path")
-    // The drawLine function returns the instructions for creating the line for electionData
+    // The drawLine function returns the instructions for creating the line for milesData
     .attr("d", drawLine(electionData))
     .classed("line", true);
 
@@ -87,4 +83,3 @@ d3.csv("election-data.csv").then(function(electionData) {
 }).catch(function(error) {
   console.log(error);
 });
-//..............................................................................................................
