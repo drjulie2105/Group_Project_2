@@ -16,6 +16,10 @@ Proposal Link:https://docs.google.com/document/d/1Cc4MgDe3Z4tiqLywjE9hDRXH9fWuOf
 * To PostgresSQL (pgAdmin)
 * Flask App
 
+## Final Product 
+
+In order to run index.html file click this link:
+
 ## Creators 
 1. Jon Zagorski
 2. Olusegun Olorunfemi
