@@ -13,7 +13,7 @@ Proposal Link:https://docs.google.com/document/d/1Cc4MgDe3Z4tiqLywjE9hDRXH9fWuOf
 ## Consolidating the Data
 
 ## Importing Data 
-* To PostgresSQL (pgAdmin)
+* To PostgresSQL (pgAdmin) - we finally created a Database and Table within pgAdmin and inserted each column name and its datatype.
 * Flask App
 
 ## Final Product 
