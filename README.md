@@ -1,6 +1,6 @@
 # Group_Project_2
 
-![](images/POLITICAL.png | width="400" height="200") 
+![](images/POLITICAL.png) 
 
 ## Project Proposal
 
