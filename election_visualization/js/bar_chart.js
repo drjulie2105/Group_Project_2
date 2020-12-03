@@ -1,13 +1,14 @@
+
 // Define SVG area dimensions
 var svgWidth = 1300;
 var svgHeight = 660;
 
 // Define the chart's margins as an object
 var chartMargin = {
-  top: 30,
+  top: 100,
   right: 30,
   bottom: 30,
-  left: 55
+  left: 65
 };
 
 // Define dimensions of the chart area
@@ -25,29 +26,42 @@ var chartGroup = svg.append("g")
   .attr("transform", `translate(${chartMargin.left}, ${chartMargin.top})`);
 
 // // Load data from csv
-d3.csv("data/democrat_2000.csv").then(function(electionData) {
+d3.csv("data/merge_df_2000.csv").then(function(electionData) {
 
   console.log(electionData);
 
 //   // Cast the votes value to a number for each piece of electionData
   electionData.forEach(function(d) {
-    d.candidatevotes = +d.candidatevotes;
+    d.candidatevotes_Dem = +d.candidatevotes_Dem;
   });
 
 
 
   // // Configure a band scale for the horizontal axis with a padding of 0.1 (10%)
   var xBandScale = d3.scaleBand()
-    .domain(electionData.map(d => d.state_po))
+    .domain(electionData.map(d => d.state_po_Dem))
     .range([0, chartWidth])
     .padding(0.1);
   
 
+  
+  // // Second xscale for DOUBLE BAR CHART
+
+  // var xBandScale1 =d3.scaleBand()
+  //   .domain('candidatevotes_Dem', 'candidatevotes.Rep')
   // // Create a linear scale for the vertical axis.
+
   var yLinearScale = d3.scaleLinear()
-    .domain([0, d3.max(electionData, d => d.candidatevotes)])
+    .domain([0, d3.max(electionData, d => d.candidatevotes_Dem)])
     .range([chartHeight, 0]);
   
+
+  
+  // // // Create a linear scale for the vertical axis for DOUBLE BAR CHART
+  // var yLinearScale = d3.scaleLinear()
+  //   .domain([0, d3.max(electionData, d => d.candidatevotes_Dem > d.candidatevotes_Rep ? d.candidatevotes_Dem : d.candidatevotes_Rep)])
+  //   .range([chartHeight, 0]);
+
 
   // Create two new functions passing our scales in as arguments
   // These will be used to create the chart's axes
@@ -72,12 +86,24 @@ d3.csv("data/democrat_2000.csv").then(function(electionData) {
     .enter()
     .append("rect")
     .attr("class", "bar")
-    .attr("x", d => xBandScale(d.state_po))
-    .attr("y", d => yLinearScale(d.candidatevotes))
+    .attr("x", d => xBandScale(d.state_po_Dem))
+    .attr("y", d => yLinearScale(d.candidatevotes_Dem))
     .attr("width", xBandScale.bandwidth())
-    .attr("height", d => chartHeight - yLinearScale(d.candidatevotes))
+    .attr("height", d => chartHeight - yLinearScale(d.candidatevotes_Dem))
     .style("fill", "#1146F8");
   
+    // // DOUBLE BAR CHART
+
+    // chartGroup.selectAll(".bar.candidatevotes_Rep")
+    // .data(electionData)
+    // .enter()
+    // .append("rect")
+    // .attr("class", "bar candidatevotes_Rep")
+    // .attr("x", d => xBandScale1(d.state_po_Rep))
+    // .attr("y", d => yLinearScale(d.candidatevotes_Rep))
+    // .attr("width", xBandScale.bandwidth())
+    // .attr("height", d => chartHeight - yLinearScale(d.candidatevotes_Rep))
+    // .style("fill", "#F9070E");
 
 }).catch(function(error) {
   console.log(error);
