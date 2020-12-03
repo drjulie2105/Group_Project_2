@@ -24,42 +24,48 @@ var svg = d3.select("body")
 var chartGroup = svg.append("g")
   .attr("transform", `translate(${chartMargin.left}, ${chartMargin.top})`);
 
-// Load data from csv
+// // Load data from csv
 d3.csv("data/democrat_2000.csv").then(function(electionData) {
 
   console.log(electionData);
 
-  // Cast the hours value to a number for each piece of tvData
+//   // Cast the votes value to a number for each piece of electionData
   electionData.forEach(function(d) {
     d.candidatevotes = +d.candidatevotes;
   });
 
-  // Configure a band scale for the horizontal axis with a padding of 0.1 (10%)
+
+
+  // // Configure a band scale for the horizontal axis with a padding of 0.1 (10%)
   var xBandScale = d3.scaleBand()
     .domain(electionData.map(d => d.state_po))
     .range([0, chartWidth])
     .padding(0.1);
+  
 
-  // Create a linear scale for the vertical axis.
+  // // Create a linear scale for the vertical axis.
   var yLinearScale = d3.scaleLinear()
     .domain([0, d3.max(electionData, d => d.candidatevotes)])
     .range([chartHeight, 0]);
+  
 
   // Create two new functions passing our scales in as arguments
   // These will be used to create the chart's axes
   var bottomAxis = d3.axisBottom(xBandScale);
   var leftAxis = d3.axisLeft(yLinearScale).ticks(10);
 
+
   // Append two SVG group elements to the chartGroup area,
   // and create the bottom and left axes inside of them
-  chartGroup.append("g")
+
+    chartGroup.append("g")
     .call(leftAxis);
 
   chartGroup.append("g")
     .attr("transform", `translate(0, ${chartHeight})`)
     .call(bottomAxis);
 
-  // Create one SVG rectangle per piece of tvData
+  // Create one SVG rectangle per election data
   // Use the linear and band scales to position each rectangle within the chart
   chartGroup.selectAll(".bar")
     .data(electionData)
@@ -71,6 +77,7 @@ d3.csv("data/democrat_2000.csv").then(function(electionData) {
     .attr("width", xBandScale.bandwidth())
     .attr("height", d => chartHeight - yLinearScale(d.candidatevotes))
     .style("fill", "#1146F8");
+  
 
 }).catch(function(error) {
   console.log(error);
