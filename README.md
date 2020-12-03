@@ -16,7 +16,7 @@ http://www.electproject.org/home/voter-turnout/voter-turnout-data - VEP
 
 ## Getting Started
 
-We brainstormed
+We Extracted the Data, Transformed the data, Loaded the data so that it can be very easy for our viewers to visualize the data and enjoy the envision the results from 2000-2016 in three ways the Heat Map, Choropleth map, and A line graph.
 
 ## Consolidating the Data
 
