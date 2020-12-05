@@ -1,0 +1,68 @@
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+.nav-link {
+    font-size: 25px;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30px;
+}
+
+
+.paragraph {
+    font-size: 25px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 25px;
+    margin-top: 25px;
+    
+}
+
+.sub_header {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 125px;
+}
+
+body {
+    background-color: rgb(242, 188, 188);
+}
+
+.bio_images {
+    margin-top: 135px;
+}
+
+.flag_pic {
+    float: right;
+    margin-top: 175px;
+}
+
+#map_1,
+body,
+html {
+  height: 100%;
+}
+
+#map_2,
+body,
+html {
+  height: 100%;
+}
+
+#map_3,
+body,
+html {
+  height: 100%;
+}
+
+

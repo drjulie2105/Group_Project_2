@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Group Project 2</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+  <body>
+    
+ 
+        <nav class="navbar navbar-expand-sm bg-primary navbar-dark fixed-top">
+            <!-- Brand/logo -->
+              <a class="navbar-brand" href="index.html">Election Data</a>
+            
+            <!-- Links -->
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="vis_2.html">Visualization 2</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="vis_3.html">Visualization 3</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="bio_page.html">Bio Page</a>
+              </li>
+            </ul>
+          </nav>
+    
+  <div class=container>
+  <div class=row>
+
+  <div class="col-md-8 col-xs-6">
+    <h2 class="sub_header">
+      Project Summary
+    </h2>
+    <p class="paragraph">
+ 
+      Our group created an interactive data visualization of the
+      presidential election data from 2000 to 2016.  We obtained
+      the data from the following sources: 
+      <br>
+      1. <a href="https://electionlab.mit.edu/data">MIT Election Lab Data</a>
+      <br>
+      2. <a href=" http://www.electproject.org/home/voter-turnout/voter-turnout-data">Election Project</a>
+      <br>
+      The graph below represents....
+   
+    </p>
+    </div>
+
+      <div class="col-md-4 col-xs-6">
+        <img class="flag_pic" src="images/usa2.jpg" alt="flag">
+    </div>
+  
+</div>
+</div>
+
+
+ <!-- The div where we will inject our map -->
+ <div id="map_1"></div>
+
+
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+
+    <!-- API key -->
+    <script type="text/javascript" src="js/config.js"></script>
+
+      <!-- JS  -->
+    <script type="text/javascript" src="js/map_1.js"></script>
+  
+  
+
+  </body>
+</html>
