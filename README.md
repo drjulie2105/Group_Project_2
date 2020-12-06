@@ -30,7 +30,7 @@ These are the steps we took as milestones to merge the data sets: importing file
 
 ## Final Product 
 
-In order to run index.html file click this link:
+In order to run index.html file click this link: http://localhost:52330/election_visualization/index.html
 
 ## Creators 
 1. Jon Zagorski
