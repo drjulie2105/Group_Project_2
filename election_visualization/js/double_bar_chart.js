@@ -1,4 +1,16 @@
 
+
+
+// Create variable to select the election year
+var electionYear = d3.select('#selectOption').property("value")
+console.log(electionYear);
+changeYear(electionYear);
+
+// Create a function that will create the chart based on the selected year
+function changeYear(electionYear){
+  // Clear out the old chart before creating new chart
+  d3.select('#d3Id').html("");
+
 var container = d3.select('#d3Id'),
     width = 1300,
     height = 660,
@@ -21,9 +33,8 @@ var yScale = d3.scaleLinear().range([height - margin.top - margin.bottom, 0])
 
 var xAxis = d3.axisBottom(xScale0).tickSizeOuter(axisTicks.outerSize);
 var yAxis = d3.axisLeft(yScale).ticks(axisTicks.qty).tickSizeOuter(axisTicks.outerSize);
-
 // // Load data from csv
-d3.csv("data/merge_df_2000.csv").then(function(electionData) {
+d3.csv(`data/merge_df_${electionYear}.csv`).then(function(electionData) {
 
     console.log(electionData);
   
@@ -79,6 +90,6 @@ svg.append("g")
 // Add the Y Axis
 svg.append("g")
      .attr("class", "y axis")
-     .call(yAxis)});
+     .call(yAxis)});}
 
 

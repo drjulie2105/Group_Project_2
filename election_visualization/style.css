@@ -61,6 +61,10 @@ body {
     font-size: 30px;
 }
 
+#d3Id {
+    margin-top: 50px;
+}
+
 #map_1,
 body,
 html {
