@@ -54,6 +54,13 @@ body {
     margin-top: 175px;
 }
 
+#selectOption {
+    margin-left: 175px;
+    margin-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
 #map_1,
 body,
 html {

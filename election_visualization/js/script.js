@@ -8,6 +8,8 @@ function updatePage() {
   var dropdownMenuID = dropdownMenu.id;
   // Assign the dropdown menu option to a variable
   var selectedOption = dropdownMenu.value;
+  // Assign the chart ID 
+  var CHART = d3.selectAll("#d3Id").node();
 
   console.log(dropdownMenuID);
   console.log(selectedOption);
