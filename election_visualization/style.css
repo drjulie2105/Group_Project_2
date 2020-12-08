@@ -83,4 +83,13 @@ html {
   height: 100%;
 }
 
+.axis {
+    font: 14px sans-serif;
+  }
+  
+.line {
+    fill: none;
+    stroke: purple;
+    stroke-width: 2px;
+  }
 
