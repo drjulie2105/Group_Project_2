@@ -12,8 +12,6 @@
     <!--Bootstrap-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     
-    <!-- d3 JavaScript -->
-    <script src="https://d3js.org/d3.v5.min.js"></script>
 
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="style.css">
@@ -44,10 +42,29 @@
 
         </nav>
 
+        <div id='d3Id'></div>
 
+ 
+        <div id="menu"></div>
+        <h1 class="header">
+          Total Candidate Votes
+    
+          <select id="selectOption" onchange="changeYear(this.value)">
+            <option value="2000">2000</option>
+            <option value="2004">2004</option>
+            <option value="2008">2008</option>
+            <option value="2012">2012</option>
+            <option value="2016">2016</option>
+            </select>
+        </h1>
+       
+        
 <!-- The div where we will inject our map -->
- <div id="map_1"></div>
+ <!-- <div id="map_1"></div> -->
 
+
+<!-- d3 JavaScript -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
 
 
  <!-- Leaflet JS -->
@@ -55,11 +72,12 @@
  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
  crossorigin=""></script>
 
- <!-- API key -->
- <script type="text/javascript" src="js/config.js"></script>
+ <!-- API key
+ <script type="text/javascript" src="js/config.js"></script> -->
 
-   <!-- JS  -->
- <script type="text/javascript" src="js/map_1.js"></script>
+<!--  JS  -->
+ <!-- <script type="text/javascript" src="js/map_1.js"></script> -->
+ <script type="text/javascript" src="js/bar_chart.js"></script>
 
 </body>
 </html>

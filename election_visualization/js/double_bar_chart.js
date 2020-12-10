@@ -14,7 +14,7 @@ function changeYear(electionYear){
 var container = d3.select('#d3Id'),
     width = 1300,
     height = 660,
-    margin = {top: 70, right: 20, bottom: 20, left: 70},
+    margin = {top: 70, right: 20, bottom: 20, left: 75},
     barPadding = .2,
     axisTicks = {qty: 5, outerSize: 0};
 

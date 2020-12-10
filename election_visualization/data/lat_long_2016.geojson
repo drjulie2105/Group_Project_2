@@ -1,0 +1,1171 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.902298,32.31823 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "year":2016,
+    "state":"Alabama",
+    "state_po_Rep":"AL",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1318255,
+    "state_po_Dem":"AL",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":729547,
+    "totalvotes":2123372,
+    "Place Name":"Alabama, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.36914099999998,66.160507 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "year":2016,
+    "state":"Alaska",
+    "state_po_Rep":"AK",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":163387,
+    "state_po_Dem":"AK",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":116454,
+    "totalvotes":318608,
+    "Place Name":"Alaska, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.09373500000001,34.048927 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "year":2016,
+    "state":"Arizona",
+    "state_po_Rep":"AZ",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1252401,
+    "state_po_Dem":"AZ",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1161167,
+    "totalvotes":2573165,
+    "Place Name":"Arizona, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.199997,34.799999 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "year":2016,
+    "state":"Arkansas",
+    "state_po_Rep":"AR",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":684872,
+    "state_po_Dem":"AR",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":380494,
+    "totalvotes":1130635,
+    "Place Name":"Arkansas, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.41793100000001,36.778259000000006 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "year":2016,
+    "state":"California",
+    "state_po_Rep":"CA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":4483810,
+    "state_po_Dem":"CA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":8753788,
+    "totalvotes":14181595,
+    "Place Name":"California, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.35888700000001,39.113014 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "year":2016,
+    "state":"Colorado",
+    "state_po_Rep":"CO",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1202484,
+    "state_po_Dem":"CO",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1338870,
+    "totalvotes":2780220,
+    "Place Name":"Colorado, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.699997,41.599998 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "year":2016,
+    "state":"Connecticut",
+    "state_po_Rep":"CT",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":673215,
+    "state_po_Dem":"CT",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":897572,
+    "totalvotes":1644920,
+    "Place Name":"Connecticut, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5,39.0 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "year":2016,
+    "state":"Delaware",
+    "state_po_Rep":"DE",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":185127,
+    "state_po_Dem":"DE",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":235603,
+    "totalvotes":441590,
+    "Place Name":"Delaware, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.760254,27.994402 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "year":2016,
+    "state":"Florida",
+    "state_po_Rep":"FL",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":4617886,
+    "state_po_Dem":"FL",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":4504975,
+    "totalvotes":9420039,
+    "Place Name":"Florida, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.441162,33.247875 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "year":2016,
+    "state":"Georgia",
+    "state_po_Rep":"GA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2089104,
+    "state_po_Dem":"GA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1877963,
+    "totalvotes":4114732,
+    "Place Name":"Georgia, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.844437,19.741754999999998 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "year":2016,
+    "state":"Hawaii",
+    "state_po_Rep":"HI",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":128847,
+    "state_po_Dem":"HI",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":266891,
+    "totalvotes":437664,
+    "Place Name":"Hawaii, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.742043,44.068203000000004 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "year":2016,
+    "state":"Idaho",
+    "state_po_Rep":"ID",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":409055,
+    "state_po_Dem":"ID",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":189765,
+    "totalvotes":690255,
+    "Place Name":"Idaho, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0,40.0 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "year":2016,
+    "state":"Illinois",
+    "state_po_Rep":"IL",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2146015,
+    "state_po_Dem":"IL",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":3090729,
+    "totalvotes":5536424,
+    "Place Name":"Illinois, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.126976,40.273502 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "year":2016,
+    "state":"Indiana",
+    "state_po_Rep":"IN",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1557286,
+    "state_po_Dem":"IN",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1033126,
+    "totalvotes":2734958,
+    "Place Name":"Indiana, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.58154300000001,42.032973999999996 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "year":2016,
+    "state":"Iowa",
+    "state_po_Rep":"IA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":800983,
+    "state_po_Dem":"IA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":653669,
+    "totalvotes":1565580,
+    "Place Name":"Iowa, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.0,38.5 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "year":2016,
+    "state":"Kansas",
+    "state_po_Rep":"KS",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":671018,
+    "state_po_Dem":"KS",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":427005,
+    "totalvotes":1184402,
+    "Place Name":"Kansas, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.27002,37.839333 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "year":2016,
+    "state":"Kentucky",
+    "state_po_Rep":"KY",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1202971,
+    "state_po_Dem":"KY",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":628854,
+    "totalvotes":1924149,
+    "Place Name":"Kentucky, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.329102,30.39183 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "year":2016,
+    "state":"Louisiana",
+    "state_po_Rep":"LA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1178638,
+    "state_po_Dem":"LA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":780154,
+    "totalvotes":2029032,
+    "Place Name":"Louisiana, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.97216800000001,45.367584 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "year":2016,
+    "state":"Maine",
+    "state_po_Rep":"ME",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":335593,
+    "state_po_Dem":"ME",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":357735,
+    "totalvotes":771892,
+    "Place Name":"Maine, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "year":2016,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":943169,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1677928,
+    "totalvotes":2781446,
+    "Place Name":"Maryland, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "year":2016,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":943169,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":78,
+    "totalvotes":2781446,
+    "Place Name":"Maryland, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "year":2016,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":259,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1677928,
+    "totalvotes":2781446,
+    "Place Name":"Maryland, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "year":2016,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":259,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":78,
+    "totalvotes":2781446,
+    "Place Name":"Maryland, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.382439,42.407211 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "year":2016,
+    "state":"Massachusetts",
+    "state_po_Rep":"MA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1090893,
+    "state_po_Dem":"MA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1995196,
+    "totalvotes":3378821,
+    "Place Name":"Massachusetts, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.50683599999999,44.182204999999996 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "year":2016,
+    "state":"Michigan",
+    "state_po_Rep":"MI",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2279543,
+    "state_po_Dem":"MI",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2268839,
+    "totalvotes":4799284,
+    "Place Name":"Michigan, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.63623,46.39241 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "year":2016,
+    "state":"Minnesota",
+    "state_po_Rep":"MN",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1322949,
+    "state_po_Dem":"MN",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1367705,
+    "totalvotes":2944782,
+    "Place Name":"Minnesota, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0,33.0 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "year":2016,
+    "state":"Mississippi",
+    "state_po_Rep":"MS",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":700714,
+    "state_po_Dem":"MS",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":485131,
+    "totalvotes":1209357,
+    "Place Name":"Mississippi, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.60376,38.573935999999996 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "year":2016,
+    "state":"Missouri",
+    "state_po_Rep":"MO",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1594511,
+    "state_po_Dem":"MO",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1071068,
+    "totalvotes":2808605,
+    "Place Name":"Missouri, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.53369099999999,46.96526 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "year":2016,
+    "state":"Montana",
+    "state_po_Rep":"MT",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":279240,
+    "state_po_Dem":"MT",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":177709,
+    "totalvotes":494526,
+    "Place Name":"Montana, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,41.5 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "year":2016,
+    "state":"Nebraska",
+    "state_po_Rep":"NE",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":495961,
+    "state_po_Dem":"NE",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":284494,
+    "totalvotes":844227,
+    "Place Name":"Nebraska, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.224121,39.876019 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "year":2016,
+    "state":"Nevada",
+    "state_po_Rep":"NV",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":512058,
+    "state_po_Dem":"NV",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":539260,
+    "totalvotes":1125385,
+    "Place Name":"Nevada, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,44.0 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "year":2016,
+    "state":"New Hampshire",
+    "state_po_Rep":"NH",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":345790,
+    "state_po_Dem":"NH",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":348526,
+    "totalvotes":744296,
+    "Place Name":"New Hampshire, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.871826,39.833851 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "year":2016,
+    "state":"New Jersey",
+    "state_po_Rep":"NJ",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1601933,
+    "state_po_Dem":"NJ",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2148278,
+    "totalvotes":3874046,
+    "Place Name":"New Jersey, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.01806599999999,34.307144 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "year":2016,
+    "state":"New Mexico",
+    "state_po_Rep":"NM",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":319667,
+    "state_po_Dem":"NM",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":385234,
+    "totalvotes":798319,
+    "Place Name":"New Mexico, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0,43.0 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "year":2016,
+    "state":"New York",
+    "state_po_Rep":"NY",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2527142,
+    "state_po_Dem":"NY",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":4379789,
+    "totalvotes":7802084,
+    "Place Name":"New York, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.79345699999999,35.782169 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "year":2016,
+    "state":"North Carolina",
+    "state_po_Rep":"NC",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2362631,
+    "state_po_Dem":"NC",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2189316,
+    "totalvotes":4741564,
+    "Place Name":"North Carolina, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.437012,47.650589000000004 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "year":2016,
+    "state":"North Dakota",
+    "state_po_Rep":"ND",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":216794,
+    "state_po_Dem":"ND",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":93758,
+    "totalvotes":344360,
+    "Place Name":"North Dakota, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.996216,40.367474 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "year":2016,
+    "state":"Ohio",
+    "state_po_Rep":"OH",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2841005,
+    "state_po_Dem":"OH",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2394164,
+    "totalvotes":5496487,
+    "Place Name":"Ohio, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.921387,36.084621000000006 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "year":2016,
+    "state":"Oklahoma",
+    "state_po_Rep":"OK",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":949136,
+    "state_po_Dem":"OK",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":420375,
+    "totalvotes":1452992,
+    "Place Name":"Oklahoma, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5,44.0 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "year":2016,
+    "state":"Oregon",
+    "state_po_Rep":"OR",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":782403,
+    "state_po_Dem":"OR",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1002106,
+    "totalvotes":2001336,
+    "Place Name":"Oregon, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19452700000001,41.203323 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "year":2016,
+    "state":"Pennsylvania",
+    "state_po_Rep":"PA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2970733,
+    "state_po_Dem":"PA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2926441,
+    "totalvotes":6115402,
+    "Place Name":"Pennsylvania, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,41.700001 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "year":2016,
+    "state":"Rhode Island",
+    "state_po_Rep":"RI",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":180543,
+    "state_po_Dem":"RI",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":252525,
+    "totalvotes":464144,
+    "Place Name":"Rhode Island, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.16372700000001,33.836082 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "year":2016,
+    "state":"South Carolina",
+    "state_po_Rep":"SC",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1155389,
+    "state_po_Dem":"SC",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":855373,
+    "totalvotes":2103027,
+    "Place Name":"South Carolina, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,44.5 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "year":2016,
+    "state":"South Dakota",
+    "state_po_Rep":"SD",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":227721,
+    "state_po_Dem":"SD",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":117458,
+    "totalvotes":370093,
+    "Place Name":"South Dakota, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.660156,35.860119 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "year":2016,
+    "state":"Tennessee",
+    "state_po_Rep":"TN",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1522925,
+    "state_po_Dem":"TN",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":870695,
+    "totalvotes":2508027,
+    "Place Name":"Tennessee, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,31.0 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "year":2016,
+    "state":"Texas",
+    "state_po_Rep":"TX",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":4685047,
+    "state_po_Dem":"TX",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":3877868,
+    "totalvotes":8969226,
+    "Place Name":"Texas, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.95068400000001,39.41922 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "year":2016,
+    "state":"Utah",
+    "state_po_Rep":"UT",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":515211,
+    "state_po_Dem":"UT",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":310674,
+    "totalvotes":1131317,
+    "Place Name":"Utah, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.699997,44.0 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "year":2016,
+    "state":"Vermont",
+    "state_po_Rep":"VT",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":95369,
+    "state_po_Dem":"VT",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":178573,
+    "totalvotes":320467,
+    "Place Name":"Vermont, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.024902,37.926868 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "year":2016,
+    "state":"Virginia",
+    "state_po_Rep":"VA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1769443,
+    "state_po_Dem":"VA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1981473,
+    "totalvotes":3982752,
+    "Place Name":"Virginia, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.74013500000001,47.751076 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "year":2016,
+    "state":"Washington",
+    "state_po_Rep":"WA",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1221747,
+    "state_po_Dem":"WA",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1742718,
+    "totalvotes":3317019,
+    "Place Name":"Washington State, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5,39.0 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "year":2016,
+    "state":"West Virginia",
+    "state_po_Rep":"WV",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":489371,
+    "state_po_Dem":"WV",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":188794,
+    "totalvotes":713051,
+    "Place Name":"West Virginia, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5,44.5 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "year":2016,
+    "state":"Wisconsin",
+    "state_po_Rep":"WI",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1405284,
+    "state_po_Dem":"WI",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1382536,
+    "totalvotes":2976150,
+    "Place Name":"Wisconsin, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.290283,43.07597 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "year":2016,
+    "state":"Wyoming",
+    "state_po_Rep":"WY",
+    "candidate_Rep":"Trump, Donald J.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":174419,
+    "state_po_Dem":"WY",
+    "candidate_Dem":"Clinton, Hillary",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":55973,
+    "totalvotes":258788,
+    "Place Name":"Wyoming, USA"
+    }
+  }
+]
+}

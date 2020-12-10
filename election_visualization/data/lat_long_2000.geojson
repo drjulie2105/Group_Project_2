@@ -1,0 +1,1034 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.902298,32.31823 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "year":2000,
+    "state":"Alabama",
+    "state_po_Rep":"AL",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":941173,
+    "state_po_Dem":"AL",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":692611,
+    "totalvotes":1666272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.36914099999998,66.160507 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "year":2000,
+    "state":"Alaska",
+    "state_po_Rep":"AK",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":167398,
+    "state_po_Dem":"AK",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":79004,
+    "totalvotes":285560
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.09373500000001,34.048927 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "year":2000,
+    "state":"Arizona",
+    "state_po_Rep":"AZ",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":781652,
+    "state_po_Dem":"AZ",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":685341,
+    "totalvotes":1532016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.199997,34.799999 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "year":2000,
+    "state":"Arkansas",
+    "state_po_Rep":"AR",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":472940,
+    "state_po_Dem":"AR",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":422768,
+    "totalvotes":921781
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.41793100000001,36.778259000000006 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "year":2000,
+    "state":"California",
+    "state_po_Rep":"CA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":4567429,
+    "state_po_Dem":"CA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":5861203,
+    "totalvotes":10965822
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.35888700000001,39.113014 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "year":2000,
+    "state":"Colorado",
+    "state_po_Rep":"CO",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":883748,
+    "state_po_Dem":"CO",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":738227,
+    "totalvotes":1741368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.699997,41.599998 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "year":2000,
+    "state":"Connecticut",
+    "state_po_Rep":"CT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":561094,
+    "state_po_Dem":"CT",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":816015,
+    "totalvotes":1459525
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5,39.0 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "year":2000,
+    "state":"Delaware",
+    "state_po_Rep":"DE",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":137288,
+    "state_po_Dem":"DE",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":180068,
+    "totalvotes":327529
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.760254,27.994402 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "year":2000,
+    "state":"Florida",
+    "state_po_Rep":"FL",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2912790,
+    "state_po_Dem":"FL",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2912253,
+    "totalvotes":5963110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.441162,33.247875 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "year":2000,
+    "state":"Georgia",
+    "state_po_Rep":"GA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1419720,
+    "state_po_Dem":"GA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1116230,
+    "totalvotes":2583208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.844437,19.741754999999998 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "year":2000,
+    "state":"Hawaii",
+    "state_po_Rep":"HI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":137845,
+    "state_po_Dem":"HI",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":205286,
+    "totalvotes":367951
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.742043,44.068203000000004 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "year":2000,
+    "state":"Idaho",
+    "state_po_Rep":"ID",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":336937,
+    "state_po_Dem":"ID",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":138637,
+    "totalvotes":501615
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0,40.0 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "year":2000,
+    "state":"Illinois",
+    "state_po_Rep":"IL",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2019421,
+    "state_po_Dem":"IL",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2589026,
+    "totalvotes":4742108
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.126976,40.273502 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "year":2000,
+    "state":"Indiana",
+    "state_po_Rep":"IN",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1245836,
+    "state_po_Dem":"IN",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":901980,
+    "totalvotes":2199302
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.58154300000001,42.032973999999996 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "year":2000,
+    "state":"Iowa",
+    "state_po_Rep":"IA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":634373,
+    "state_po_Dem":"IA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":638517,
+    "totalvotes":1353022
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.0,38.5 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "year":2000,
+    "state":"Kansas",
+    "state_po_Rep":"KS",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":622332,
+    "state_po_Dem":"KS",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":399276,
+    "totalvotes":1072216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.27002,37.839333 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "year":2000,
+    "state":"Kentucky",
+    "state_po_Rep":"KY",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":872520,
+    "state_po_Dem":"KY",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":638923,
+    "totalvotes":1544106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.329102,30.39183 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "year":2000,
+    "state":"Louisiana",
+    "state_po_Rep":"LA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":927871,
+    "state_po_Dem":"LA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":792344,
+    "totalvotes":1765656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.97216800000001,45.367584 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "year":2000,
+    "state":"Maine",
+    "state_po_Rep":"ME",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":286616,
+    "state_po_Dem":"ME",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":319951,
+    "totalvotes":651817
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "year":2000,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":813827,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1144008,
+    "totalvotes":2025212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.382439,42.407211 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "year":2000,
+    "state":"Massachusetts",
+    "state_po_Rep":"MA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":878502,
+    "state_po_Dem":"MA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1616487,
+    "totalvotes":2733964
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.50683599999999,44.182204999999996 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "year":2000,
+    "state":"Michigan",
+    "state_po_Rep":"MI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1953139,
+    "state_po_Dem":"MI",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2170418,
+    "totalvotes":4232501
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0,33.0 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "year":2000,
+    "state":"Mississippi",
+    "state_po_Rep":"MS",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":572844,
+    "state_po_Dem":"MS",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":404614,
+    "totalvotes":994184
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.60376,38.573935999999996 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "year":2000,
+    "state":"Missouri",
+    "state_po_Rep":"MO",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1189924,
+    "state_po_Dem":"MO",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1111138,
+    "totalvotes":2359892
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.53369099999999,46.96526 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "year":2000,
+    "state":"Montana",
+    "state_po_Rep":"MT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":240178,
+    "state_po_Dem":"MT",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":137126,
+    "totalvotes":410986
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,41.5 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "year":2000,
+    "state":"Nebraska",
+    "state_po_Rep":"NE",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":433862,
+    "state_po_Dem":"NE",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":231780,
+    "totalvotes":697019
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.224121,39.876019 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "year":2000,
+    "state":"Nevada",
+    "state_po_Rep":"NV",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":301575,
+    "state_po_Dem":"NV",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":279978,
+    "totalvotes":609426
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,44.0 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "year":2000,
+    "state":"New Hampshire",
+    "state_po_Rep":"NH",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":273559,
+    "state_po_Dem":"NH",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":266348,
+    "totalvotes":569081
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.871826,39.833851 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "year":2000,
+    "state":"New Jersey",
+    "state_po_Rep":"NJ",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1284173,
+    "state_po_Dem":"NJ",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1788850,
+    "totalvotes":3187226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.01806599999999,34.307144 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "year":2000,
+    "state":"New Mexico",
+    "state_po_Rep":"NM",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":286417,
+    "state_po_Dem":"NM",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":286783,
+    "totalvotes":598605
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0,43.0 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "year":2000,
+    "state":"New York",
+    "state_po_Rep":"NY",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2258577,
+    "state_po_Dem":"NY",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":3942215,
+    "totalvotes":6960215
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.79345699999999,35.782169 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "year":2000,
+    "state":"North Carolina",
+    "state_po_Rep":"NC",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1631163,
+    "state_po_Dem":"NC",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1257692,
+    "totalvotes":2914990
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.437012,47.650589000000004 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "year":2000,
+    "state":"North Dakota",
+    "state_po_Rep":"ND",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":174852,
+    "state_po_Dem":"ND",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":95284,
+    "totalvotes":288256
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.996216,40.367474 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "year":2000,
+    "state":"Ohio",
+    "state_po_Rep":"OH",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2350363,
+    "state_po_Dem":"OH",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2183628,
+    "totalvotes":4701998
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.921387,36.084621000000006 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "year":2000,
+    "state":"Oklahoma",
+    "state_po_Rep":"OK",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":744337,
+    "state_po_Dem":"OK",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":474276,
+    "totalvotes":1234229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5,44.0 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "year":2000,
+    "state":"Oregon",
+    "state_po_Rep":"OR",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":713577,
+    "state_po_Dem":"OR",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":720342,
+    "totalvotes":1533950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19452700000001,41.203323 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "year":2000,
+    "state":"Pennsylvania",
+    "state_po_Rep":"PA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2281127,
+    "state_po_Dem":"PA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2485967,
+    "totalvotes":4912185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,41.700001 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "year":2000,
+    "state":"Rhode Island",
+    "state_po_Rep":"RI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":130555,
+    "state_po_Dem":"RI",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":249508,
+    "totalvotes":409112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.16372700000001,33.836082 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "year":2000,
+    "state":"South Carolina",
+    "state_po_Rep":"SC",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":786892,
+    "state_po_Dem":"SC",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":566037,
+    "totalvotes":1383902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,44.5 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "year":2000,
+    "state":"South Dakota",
+    "state_po_Rep":"SD",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":190700,
+    "state_po_Dem":"SD",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":118804,
+    "totalvotes":316269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.660156,35.860119 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "year":2000,
+    "state":"Tennessee",
+    "state_po_Rep":"TN",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1061949,
+    "state_po_Dem":"TN",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":981720,
+    "totalvotes":2076181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,31.0 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "year":2000,
+    "state":"Texas",
+    "state_po_Rep":"TX",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":3799639,
+    "state_po_Dem":"TX",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2433746,
+    "totalvotes":6407637
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.95068400000001,39.41922 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "year":2000,
+    "state":"Utah",
+    "state_po_Rep":"UT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":515096,
+    "state_po_Dem":"UT",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":203053,
+    "totalvotes":770754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.699997,44.0 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "year":2000,
+    "state":"Vermont",
+    "state_po_Rep":"VT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":119775,
+    "state_po_Dem":"VT",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":149022,
+    "totalvotes":294308
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.024902,37.926868 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "year":2000,
+    "state":"Virginia",
+    "state_po_Rep":"VA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1437490,
+    "state_po_Dem":"VA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1217290,
+    "totalvotes":2739447
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.74013500000001,47.751076 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "year":2000,
+    "state":"Washington",
+    "state_po_Rep":"WA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1108864,
+    "state_po_Dem":"WA",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1247652,
+    "totalvotes":2487433
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5,39.0 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "year":2000,
+    "state":"West Virginia",
+    "state_po_Rep":"WV",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":336475,
+    "state_po_Dem":"WV",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":295497,
+    "totalvotes":648124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5,44.5 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "year":2000,
+    "state":"Wisconsin",
+    "state_po_Rep":"WI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1237279,
+    "state_po_Dem":"WI",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1242987,
+    "totalvotes":2598607
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.290283,43.07597 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "year":2000,
+    "state":"Wyoming",
+    "state_po_Rep":"WY",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":147947,
+    "state_po_Dem":"WY",
+    "candidate_Dem":"Gore, Al",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":60481,
+    "totalvotes":213726
+    }
+  }
+]
+}
