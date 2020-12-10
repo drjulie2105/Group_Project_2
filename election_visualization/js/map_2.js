@@ -11,7 +11,7 @@ fetch("data/lat_long_2000.geojson")
   })
   .then(function(data) {
     L.geoJson(data).addTo(myMap);
-  })
+  });
 
 // Add a tile layer
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -23,11 +23,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: "pk.eyJ1IjoiamFwNDMyMTAiLCJhIjoiY2toZmdpZGV3MGNlYzJxb2oxY2YxN3lreCJ9.03_5PIUOCTpSUSFkNaNqxA"
 }).addTo(myMap);
 
-// for (var i = 0; i < state.length; i++) {
-//   var state = cities[i];
-//   L.marker(city.location)
-//     .bindPopup("<h1>" + city.name + "</h1> <hr> <h3>Population " + city.population + "</h3>")
-//     .addTo(myMap);
+
 
 // var heatArray = [];
 
