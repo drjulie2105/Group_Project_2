@@ -1,0 +1,1105 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.902298,32.31823 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "year":2004,
+    "state":"Alabama",
+    "state_po_Rep":"AL",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1176394,
+    "state_po_Dem":"AL",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":693933,
+    "totalvotes":1883415,
+    "Place Name":"Alabama, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.36914099999998,66.160507 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "year":2004,
+    "state":"Alaska",
+    "state_po_Rep":"AK",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":190889,
+    "state_po_Dem":"AK",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":111025,
+    "totalvotes":312598,
+    "Place Name":"Alaska, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.09373500000001,34.048927 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "year":2004,
+    "state":"Arizona",
+    "state_po_Rep":"AZ",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1104294,
+    "state_po_Dem":"AZ",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":893524,
+    "totalvotes":2012585,
+    "Place Name":"Arizona, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.199997,34.799999 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "year":2004,
+    "state":"Arkansas",
+    "state_po_Rep":"AR",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":572898,
+    "state_po_Dem":"AR",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":469953,
+    "totalvotes":1054945,
+    "Place Name":"Arkansas, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.41793100000001,36.778259000000006 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "year":2004,
+    "state":"California",
+    "state_po_Rep":"CA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":5509826,
+    "state_po_Dem":"CA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":6745485,
+    "totalvotes":12421353,
+    "Place Name":"California, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.35888700000001,39.113014 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "year":2004,
+    "state":"Colorado",
+    "state_po_Rep":"CO",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1101255,
+    "state_po_Dem":"CO",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1001732,
+    "totalvotes":2129630,
+    "Place Name":"Colorado, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.699997,41.599998 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "year":2004,
+    "state":"Connecticut",
+    "state_po_Rep":"CT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":693826,
+    "state_po_Dem":"CT",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":857488,
+    "totalvotes":1578769,
+    "Place Name":"Connecticut, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5,39.0 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "year":2004,
+    "state":"Delaware",
+    "state_po_Rep":"DE",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":171660,
+    "state_po_Dem":"DE",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":200152,
+    "totalvotes":375190,
+    "Place Name":"Delaware, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.760254,27.994402 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "year":2004,
+    "state":"Florida",
+    "state_po_Rep":"FL",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":3964522,
+    "state_po_Dem":"FL",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":3583544,
+    "totalvotes":7609810,
+    "Place Name":"Florida, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.441162,33.247875 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "year":2004,
+    "state":"Georgia",
+    "state_po_Rep":"GA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1914254,
+    "state_po_Dem":"GA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1366149,
+    "totalvotes":3301875,
+    "Place Name":"Georgia, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.844437,19.741754999999998 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "year":2004,
+    "state":"Hawaii",
+    "state_po_Rep":"HI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":194191,
+    "state_po_Dem":"HI",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":231708,
+    "totalvotes":429013,
+    "Place Name":"Hawaii, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.742043,44.068203000000004 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "year":2004,
+    "state":"Idaho",
+    "state_po_Rep":"ID",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":409235,
+    "state_po_Dem":"ID",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":181098,
+    "totalvotes":598376,
+    "Place Name":"Idaho, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0,40.0 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "year":2004,
+    "state":"Illinois",
+    "state_po_Rep":"IL",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2345946,
+    "state_po_Dem":"IL",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2891550,
+    "totalvotes":5274322,
+    "Place Name":"Illinois, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.126976,40.273502 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "year":2004,
+    "state":"Indiana",
+    "state_po_Rep":"IN",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1479438,
+    "state_po_Dem":"IN",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":969011,
+    "totalvotes":2468002,
+    "Place Name":"Indiana, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.58154300000001,42.032973999999996 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "year":2004,
+    "state":"Iowa",
+    "state_po_Rep":"IA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":751957,
+    "state_po_Dem":"IA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":741898,
+    "totalvotes":1506908,
+    "Place Name":"Iowa, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.0,38.5 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "year":2004,
+    "state":"Kansas",
+    "state_po_Rep":"KS",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":736456,
+    "state_po_Dem":"KS",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":434993,
+    "totalvotes":1187756,
+    "Place Name":"Kansas, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.27002,37.839333 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "year":2004,
+    "state":"Kentucky",
+    "state_po_Rep":"KY",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1069439,
+    "state_po_Dem":"KY",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":712733,
+    "totalvotes":1795882,
+    "Place Name":"Kentucky, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.329102,30.39183 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "year":2004,
+    "state":"Louisiana",
+    "state_po_Rep":"LA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1102169,
+    "state_po_Dem":"LA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":820299,
+    "totalvotes":1943106,
+    "Place Name":"Louisiana, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.97216800000001,45.367584 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "year":2004,
+    "state":"Maine",
+    "state_po_Rep":"ME",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":330201,
+    "state_po_Dem":"ME",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":396842,
+    "totalvotes":740752,
+    "Place Name":"Maine, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "year":2004,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1024703,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1334493,
+    "totalvotes":2384238,
+    "Place Name":"Maryland, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.641273,39.045753000000005 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "year":2004,
+    "state":"Maryland",
+    "state_po_Rep":"MD",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1024703,
+    "state_po_Dem":"MD",
+    "candidate_Dem":"Other",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":7,
+    "totalvotes":2384238,
+    "Place Name":"Maryland, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.382439,42.407211 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "year":2004,
+    "state":"Massachusetts",
+    "state_po_Rep":"MA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1071109,
+    "state_po_Dem":"MA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1803800,
+    "totalvotes":2927455,
+    "Place Name":"Massachusetts, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.50683599999999,44.182204999999996 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "year":2004,
+    "state":"Michigan",
+    "state_po_Rep":"MI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2313746,
+    "state_po_Dem":"MI",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2479183,
+    "totalvotes":4839252,
+    "Place Name":"Michigan, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0,33.0 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "year":2004,
+    "state":"Mississippi",
+    "state_po_Rep":"MS",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":672660,
+    "state_po_Dem":"MS",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":457766,
+    "totalvotes":1139824,
+    "Place Name":"Mississippi, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.60376,38.573935999999996 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "year":2004,
+    "state":"Missouri",
+    "state_po_Rep":"MO",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1455713,
+    "state_po_Dem":"MO",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1259171,
+    "totalvotes":2731364,
+    "Place Name":"Missouri, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.53369099999999,46.96526 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "year":2004,
+    "state":"Montana",
+    "state_po_Rep":"MT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":266063,
+    "state_po_Dem":"MT",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":173710,
+    "totalvotes":450434,
+    "Place Name":"Montana, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,41.5 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "year":2004,
+    "state":"Nebraska",
+    "state_po_Rep":"NE",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":512814,
+    "state_po_Dem":"NE",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":254328,
+    "totalvotes":778186,
+    "Place Name":"Nebraska, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.224121,39.876019 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "year":2004,
+    "state":"Nevada",
+    "state_po_Rep":"NV",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":418690,
+    "state_po_Dem":"NV",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":397190,
+    "totalvotes":829587,
+    "Place Name":"Nevada, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,44.0 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "year":2004,
+    "state":"New Hampshire",
+    "state_po_Rep":"NH",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":331237,
+    "state_po_Dem":"NH",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":340511,
+    "totalvotes":678287,
+    "Place Name":"New Hampshire, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.871826,39.833851 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "year":2004,
+    "state":"New Jersey",
+    "state_po_Rep":"NJ",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1670003,
+    "state_po_Dem":"NJ",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1911430,
+    "totalvotes":3611691,
+    "Place Name":"New Jersey, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.01806599999999,34.307144 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "year":2004,
+    "state":"New Mexico",
+    "state_po_Rep":"NM",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":376930,
+    "state_po_Dem":"NM",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":370942,
+    "totalvotes":756304,
+    "Place Name":"New Mexico, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0,43.0 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "year":2004,
+    "state":"New York",
+    "state_po_Rep":"NY",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2806993,
+    "state_po_Dem":"NY",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":4180755,
+    "totalvotes":7448266,
+    "Place Name":"New York, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.79345699999999,35.782169 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "year":2004,
+    "state":"North Carolina",
+    "state_po_Rep":"NC",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1961166,
+    "state_po_Dem":"NC",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1525849,
+    "totalvotes":3501007,
+    "Place Name":"North Carolina, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.437012,47.650589000000004 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "year":2004,
+    "state":"North Dakota",
+    "state_po_Rep":"ND",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":196651,
+    "state_po_Dem":"ND",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":111052,
+    "totalvotes":312833,
+    "Place Name":"North Dakota, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.996216,40.367474 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "year":2004,
+    "state":"Ohio",
+    "state_po_Rep":"OH",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2859764,
+    "state_po_Dem":"OH",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2741165,
+    "totalvotes":5627903,
+    "Place Name":"Ohio, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.921387,36.084621000000006 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "year":2004,
+    "state":"Oklahoma",
+    "state_po_Rep":"OK",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":959792,
+    "state_po_Dem":"OK",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":503966,
+    "totalvotes":1463758,
+    "Place Name":"Oklahoma, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.5,44.0 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "year":2004,
+    "state":"Oregon",
+    "state_po_Rep":"OR",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":866831,
+    "state_po_Dem":"OR",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":943163,
+    "totalvotes":1836782,
+    "Place Name":"Oregon, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.19452700000001,41.203323 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "year":2004,
+    "state":"Pennsylvania",
+    "state_po_Rep":"PA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":2793847,
+    "state_po_Dem":"PA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2938095,
+    "totalvotes":5769590,
+    "Place Name":"Pennsylvania, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5,41.700001 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "year":2004,
+    "state":"Rhode Island",
+    "state_po_Rep":"RI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":169046,
+    "state_po_Dem":"RI",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":259760,
+    "totalvotes":437134,
+    "Place Name":"Rhode Island, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.16372700000001,33.836082 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "year":2004,
+    "state":"South Carolina",
+    "state_po_Rep":"SC",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":937974,
+    "state_po_Dem":"SC",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":661669,
+    "totalvotes":1617700,
+    "Place Name":"South Carolina, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,44.5 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "year":2004,
+    "state":"South Dakota",
+    "state_po_Rep":"SD",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":232584,
+    "state_po_Dem":"SD",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":149244,
+    "totalvotes":388215,
+    "Place Name":"South Dakota, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.660156,35.860119 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "year":2004,
+    "state":"Tennessee",
+    "state_po_Rep":"TN",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1384375,
+    "state_po_Dem":"TN",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1036477,
+    "totalvotes":2437319,
+    "Place Name":"Tennessee, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.0,31.0 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "year":2004,
+    "state":"Texas",
+    "state_po_Rep":"TX",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":4526917,
+    "state_po_Dem":"TX",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":2832704,
+    "totalvotes":7410749,
+    "Place Name":"Texas, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.95068400000001,39.41922 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "year":2004,
+    "state":"Utah",
+    "state_po_Rep":"UT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":663742,
+    "state_po_Dem":"UT",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":241199,
+    "totalvotes":927844,
+    "Place Name":"Utah, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.699997,44.0 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "year":2004,
+    "state":"Vermont",
+    "state_po_Rep":"VT",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":121180,
+    "state_po_Dem":"VT",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":184067,
+    "totalvotes":312309,
+    "Place Name":"Vermont, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.024902,37.926868 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "year":2004,
+    "state":"Virginia",
+    "state_po_Rep":"VA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1716959,
+    "state_po_Dem":"VA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1454742,
+    "totalvotes":3195415,
+    "Place Name":"Virginia, USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.74013500000001,47.751076 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "year":2004,
+    "state":"Washington",
+    "state_po_Rep":"WA",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1304894,
+    "state_po_Dem":"WA",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1510201,
+    "totalvotes":2859084,
+    "Place Name":"Washington State, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5,39.0 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "year":2004,
+    "state":"West Virginia",
+    "state_po_Rep":"WV",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":423778,
+    "state_po_Dem":"WV",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":326541,
+    "totalvotes":755792,
+    "Place Name":"West Virginia, the US"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5,44.5 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "year":2004,
+    "state":"Wisconsin",
+    "state_po_Rep":"WI",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":1478120,
+    "state_po_Dem":"WI",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":1489504,
+    "totalvotes":2997007,
+    "Place Name":"Wisconsin, the USA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.290283,43.07597 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "year":2004,
+    "state":"Wyoming",
+    "state_po_Rep":"WY",
+    "candidate_Rep":"Bush, George W.",
+    "party_Rep":"republican",
+    "candidatevotes_Rep":167629,
+    "state_po_Dem":"WY",
+    "candidate_Dem":"Kerry, John",
+    "party_Dem":"democrat",
+    "candidatevotes_Dem":70776,
+    "totalvotes":243861,
+    "Place Name":"Wyoming, USA"
+    }
+  }
+]
+}

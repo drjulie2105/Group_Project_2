@@ -1,0 +1,55 @@
+,year,state,state_po_Rep,candidate_Rep,party_Rep,candidatevotes_Rep,state_po_Dem,candidate_Dem,party_Dem,candidatevotes_Dem,totalvotes
+0,2016,Alabama,AL,"Trump, Donald J.",republican,1318255,AL,"Clinton, Hillary",democrat,729547,2123372
+1,2016,Alaska,AK,"Trump, Donald J.",republican,163387,AK,"Clinton, Hillary",democrat,116454,318608
+2,2016,Arizona,AZ,"Trump, Donald J.",republican,1252401,AZ,"Clinton, Hillary",democrat,1161167,2573165
+3,2016,Arkansas,AR,"Trump, Donald J.",republican,684872,AR,"Clinton, Hillary",democrat,380494,1130635
+4,2016,California,CA,"Trump, Donald J.",republican,4483810,CA,"Clinton, Hillary",democrat,8753788,14181595
+5,2016,Colorado,CO,"Trump, Donald J.",republican,1202484,CO,"Clinton, Hillary",democrat,1338870,2780220
+6,2016,Connecticut,CT,"Trump, Donald J.",republican,673215,CT,"Clinton, Hillary",democrat,897572,1644920
+7,2016,Delaware,DE,"Trump, Donald J.",republican,185127,DE,"Clinton, Hillary",democrat,235603,441590
+8,2016,District of Columbia,DC,"Trump, Donald J.",republican,12723,DC,"Clinton, Hillary",democrat,282830,312575
+9,2016,Florida,FL,"Trump, Donald J.",republican,4617886,FL,"Clinton, Hillary",democrat,4504975,9420039
+10,2016,Georgia,GA,"Trump, Donald J.",republican,2089104,GA,"Clinton, Hillary",democrat,1877963,4114732
+11,2016,Hawaii,HI,"Trump, Donald J.",republican,128847,HI,"Clinton, Hillary",democrat,266891,437664
+12,2016,Idaho,ID,"Trump, Donald J.",republican,409055,ID,"Clinton, Hillary",democrat,189765,690255
+13,2016,Illinois,IL,"Trump, Donald J.",republican,2146015,IL,"Clinton, Hillary",democrat,3090729,5536424
+14,2016,Indiana,IN,"Trump, Donald J.",republican,1557286,IN,"Clinton, Hillary",democrat,1033126,2734958
+15,2016,Iowa,IA,"Trump, Donald J.",republican,800983,IA,"Clinton, Hillary",democrat,653669,1565580
+16,2016,Kansas,KS,"Trump, Donald J.",republican,671018,KS,"Clinton, Hillary",democrat,427005,1184402
+17,2016,Kentucky,KY,"Trump, Donald J.",republican,1202971,KY,"Clinton, Hillary",democrat,628854,1924149
+18,2016,Louisiana,LA,"Trump, Donald J.",republican,1178638,LA,"Clinton, Hillary",democrat,780154,2029032
+19,2016,Maine,ME,"Trump, Donald J.",republican,335593,ME,"Clinton, Hillary",democrat,357735,771892
+20,2016,Maryland,MD,"Trump, Donald J.",republican,943169,MD,"Clinton, Hillary",democrat,1677928,2781446
+21,2016,Maryland,MD,"Trump, Donald J.",republican,943169,MD,"Clinton, Hillary",democrat,78,2781446
+22,2016,Maryland,MD,"Trump, Donald J.",republican,259,MD,"Clinton, Hillary",democrat,1677928,2781446
+23,2016,Maryland,MD,"Trump, Donald J.",republican,259,MD,"Clinton, Hillary",democrat,78,2781446
+24,2016,Massachusetts,MA,"Trump, Donald J.",republican,1090893,MA,"Clinton, Hillary",democrat,1995196,3378821
+25,2016,Michigan,MI,"Trump, Donald J.",republican,2279543,MI,"Clinton, Hillary",democrat,2268839,4799284
+26,2016,Minnesota,MN,"Trump, Donald J.",republican,1322949,MN,"Clinton, Hillary",democrat,1367705,2944782
+27,2016,Mississippi,MS,"Trump, Donald J.",republican,700714,MS,"Clinton, Hillary",democrat,485131,1209357
+28,2016,Missouri,MO,"Trump, Donald J.",republican,1594511,MO,"Clinton, Hillary",democrat,1071068,2808605
+29,2016,Montana,MT,"Trump, Donald J.",republican,279240,MT,"Clinton, Hillary",democrat,177709,494526
+30,2016,Nebraska,NE,"Trump, Donald J.",republican,495961,NE,"Clinton, Hillary",democrat,284494,844227
+31,2016,Nevada,NV,"Trump, Donald J.",republican,512058,NV,"Clinton, Hillary",democrat,539260,1125385
+32,2016,New Hampshire,NH,"Trump, Donald J.",republican,345790,NH,"Clinton, Hillary",democrat,348526,744296
+33,2016,New Jersey,NJ,"Trump, Donald J.",republican,1601933,NJ,"Clinton, Hillary",democrat,2148278,3874046
+34,2016,New Mexico,NM,"Trump, Donald J.",republican,319667,NM,"Clinton, Hillary",democrat,385234,798319
+35,2016,New York,NY,"Trump, Donald J.",republican,2527142,NY,"Clinton, Hillary",democrat,4379789,7802084
+36,2016,North Carolina,NC,"Trump, Donald J.",republican,2362631,NC,"Clinton, Hillary",democrat,2189316,4741564
+37,2016,North Dakota,ND,"Trump, Donald J.",republican,216794,ND,"Clinton, Hillary",democrat,93758,344360
+38,2016,Ohio,OH,"Trump, Donald J.",republican,2841005,OH,"Clinton, Hillary",democrat,2394164,5496487
+39,2016,Oklahoma,OK,"Trump, Donald J.",republican,949136,OK,"Clinton, Hillary",democrat,420375,1452992
+40,2016,Oregon,OR,"Trump, Donald J.",republican,782403,OR,"Clinton, Hillary",democrat,1002106,2001336
+41,2016,Pennsylvania,PA,"Trump, Donald J.",republican,2970733,PA,"Clinton, Hillary",democrat,2926441,6115402
+42,2016,Rhode Island,RI,"Trump, Donald J.",republican,180543,RI,"Clinton, Hillary",democrat,252525,464144
+43,2016,South Carolina,SC,"Trump, Donald J.",republican,1155389,SC,"Clinton, Hillary",democrat,855373,2103027
+44,2016,South Dakota,SD,"Trump, Donald J.",republican,227721,SD,"Clinton, Hillary",democrat,117458,370093
+45,2016,Tennessee,TN,"Trump, Donald J.",republican,1522925,TN,"Clinton, Hillary",democrat,870695,2508027
+46,2016,Texas,TX,"Trump, Donald J.",republican,4685047,TX,"Clinton, Hillary",democrat,3877868,8969226
+47,2016,Utah,UT,"Trump, Donald J.",republican,515211,UT,"Clinton, Hillary",democrat,310674,1131317
+48,2016,Vermont,VT,"Trump, Donald J.",republican,95369,VT,"Clinton, Hillary",democrat,178573,320467
+49,2016,Virginia,VA,"Trump, Donald J.",republican,1769443,VA,"Clinton, Hillary",democrat,1981473,3982752
+50,2016,Washington,WA,"Trump, Donald J.",republican,1221747,WA,"Clinton, Hillary",democrat,1742718,3317019
+51,2016,West Virginia,WV,"Trump, Donald J.",republican,489371,WV,"Clinton, Hillary",democrat,188794,713051
+52,2016,Wisconsin,WI,"Trump, Donald J.",republican,1405284,WI,"Clinton, Hillary",democrat,1382536,2976150
+53,2016,Wyoming,WY,"Trump, Donald J.",republican,174419,WY,"Clinton, Hillary",democrat,55973,258788

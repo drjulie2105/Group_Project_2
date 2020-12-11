@@ -1,0 +1,51 @@
+,year,state,state_po_Rep,candidate_Rep,party_Rep,candidatevotes_Rep,state_po_Dem,candidate_Dem,party_Dem,candidatevotes_Dem,totalvotes,Place Name,Latitude,Longitude
+0,2008,Alabama,AL,"McCain, John",republican,1266546,AL,"Obama, Barack H.",democrat,813479,2099819,"Alabama, USA",32.31823,-86.902298
+1,2008,Alaska,AK,"McCain, John",republican,193841,AK,"Obama, Barack H.",democrat,123594,326197,"Alaska, USA",66.160507,-153.36914099999998
+2,2008,Arizona,AZ,"McCain, John",republican,1230111,AZ,"Obama, Barack H.",democrat,1034707,2293475,"Arizona, USA",34.048927,-111.09373500000001
+3,2008,Arkansas,AR,"McCain, John",republican,638017,AR,"Obama, Barack H.",democrat,422310,1086617,"Arkansas, the US",34.799999,-92.199997
+4,2008,California,CA,"McCain, John",republican,5011781,CA,"Obama, Barack H.",democrat,8274473,13561900,"California, the USA",36.778259000000006,-119.41793100000001
+5,2008,Colorado,CO,"McCain, John",republican,1073589,CO,"Obama, Barack H.",democrat,1288576,2401361,"Colorado, USA",39.113014,-105.35888700000001
+6,2008,Connecticut,CT,"McCain, John",republican,629428,CT,"Obama, Barack H.",democrat,997772,1646792,"Connecticut, the US",41.599998,-72.699997
+7,2008,Delaware,DE,"McCain, John",republican,152374,DE,"Obama, Barack H.",democrat,255459,412412,"Delaware, the US",39.0,-75.5
+8,2008,Florida,FL,"McCain, John",republican,4045624,FL,"Obama, Barack H.",democrat,4282074,8390744,"Florida, USA",27.994402,-81.760254
+9,2008,Georgia,GA,"McCain, John",republican,2048759,GA,"Obama, Barack H.",democrat,1844123,3924486,"Georgia, the USA",33.247875,-83.441162
+10,2008,Hawaii,HI,"McCain, John",republican,120566,HI,"Obama, Barack H.",democrat,325871,456064,"Hawaii, USA",19.741754999999998,-155.844437
+11,2008,Idaho,ID,"McCain, John",republican,403012,ID,"Obama, Barack H.",democrat,236440,655122,"Idaho, USA",44.068203000000004,-114.742043
+12,2008,Illinois,IL,"McCain, John",republican,2031179,IL,"Obama, Barack H.",democrat,3419348,5522371,"Illinois, the US",40.0,-89.0
+13,2008,Indiana,IN,"McCain, John",republican,1345648,IN,"Obama, Barack H.",democrat,1374039,2751054,"Indiana, USA",40.273502,-86.126976
+14,2008,Iowa,IA,"McCain, John",republican,682379,IA,"Obama, Barack H.",democrat,828940,1537123,"Iowa, the USA",42.032973999999996,-93.58154300000001
+15,2008,Kansas,KS,"McCain, John",republican,699655,KS,"Obama, Barack H.",democrat,514765,1235872,"Kansas, the US",38.5,-98.0
+16,2008,Kentucky,KY,"McCain, John",republican,1048462,KY,"Obama, Barack H.",democrat,751985,1826620,"Kentucky, USA",37.839333,-84.27002
+17,2008,Louisiana,LA,"McCain, John",republican,1148275,LA,"Obama, Barack H.",democrat,782989,1960761,"Louisiana, USA",30.39183,-92.329102
+18,2008,Maine,ME,"McCain, John",republican,295273,ME,"Obama, Barack H.",democrat,421923,731163,"Maine, the USA",45.367584,-68.97216800000001
+19,2008,Maryland,MD,"McCain, John",republican,959862,MD,"Obama, Barack H.",democrat,1629467,2631596,"Maryland, USA",39.045753000000005,-76.641273
+20,2008,Massachusetts,MA,"McCain, John",republican,1108854,MA,"Obama, Barack H.",democrat,1904097,3102995,"Massachusetts, USA",42.407211,-71.382439
+21,2008,Michigan,MI,"McCain, John",republican,2048639,MI,"Obama, Barack H.",democrat,2872579,5001596,"Michigan, USA",44.182204999999996,-84.50683599999999
+22,2008,Minnesota,MN,"McCain, John",republican,1275409,MN,"Obama, Barack H.",democrat,1573354,2910369,"Minnesota, USA",46.39241,-94.63623
+23,2008,Mississippi,MS,"McCain, John",republican,724597,MS,"Obama, Barack H.",democrat,554662,1289865,"Mississippi, the US",33.0,-90.0
+24,2008,Missouri,MO,"McCain, John",republican,1445814,MO,"Obama, Barack H.",democrat,1441911,2925205,"Missouri, USA",38.573935999999996,-92.60376
+25,2008,Montana,MT,"McCain, John",republican,242763,MT,"Obama, Barack H.",democrat,231667,490109,"Montana, USA",46.96526,-109.53369099999999
+26,2008,Nebraska,NE,"McCain, John",republican,452979,NE,"Obama, Barack H.",democrat,333319,801281,"Nebraska, the US",41.5,-100.0
+27,2008,Nevada,NV,"McCain, John",republican,412827,NV,"Obama, Barack H.",democrat,533736,967848,"Nevada, USA",39.876019,-117.224121
+28,2008,New Hampshire,NH,"McCain, John",republican,316534,NH,"Obama, Barack H.",democrat,384826,710970,"New Hampshire, the US",44.0,-71.5
+29,2008,New Jersey,NJ,"McCain, John",republican,1613207,NJ,"Obama, Barack H.",democrat,2215422,3868237,"New Jersey, USA",39.833851,-74.871826
+30,2008,New Mexico,NM,"McCain, John",republican,346832,NM,"Obama, Barack H.",democrat,472422,830158,"New Mexico, USA",34.307144,-106.01806599999999
+31,2008,New York,NY,"McCain, John",republican,2418323,NY,"Obama, Barack H.",democrat,4645332,7722019,"New York, the US",43.0,-75.0
+32,2008,North Carolina,NC,"McCain, John",republican,2128474,NC,"Obama, Barack H.",democrat,2142651,4310851,"North Carolina, USA",35.782169,-80.79345699999999
+33,2008,North Dakota,ND,"McCain, John",republican,168601,ND,"Obama, Barack H.",democrat,141278,316621,"North Dakota, USA",47.650589000000004,-100.437012
+34,2008,Ohio,OH,"McCain, John",republican,2677820,OH,"Obama, Barack H.",democrat,2940044,5708350,"Ohio, USA",40.367474,-82.996216
+35,2008,Oklahoma,OK,"McCain, John",republican,960165,OK,"Obama, Barack H.",democrat,502496,1462661,"Oklahoma, the USA",36.084621000000006,-96.921387
+36,2008,Oregon,OR,"McCain, John",republican,738475,OR,"Obama, Barack H.",democrat,1037291,1827864,"Oregon, the US",44.0,-120.5
+37,2008,Pennsylvania,PA,"McCain, John",republican,2655885,PA,"Obama, Barack H.",democrat,3276363,6013272,"Pennsylvania, USA",41.203323,-77.19452700000001
+38,2008,Rhode Island,RI,"McCain, John",republican,165391,RI,"Obama, Barack H.",democrat,296571,471766,"Rhode Island, the US",41.700001,-71.5
+39,2008,South Carolina,SC,"McCain, John",republican,1034896,SC,"Obama, Barack H.",democrat,862449,1920969,"South Carolina, USA",33.836082,-81.16372700000001
+40,2008,South Dakota,SD,"McCain, John",republican,203054,SD,"Obama, Barack H.",democrat,170924,381975,"South Dakota, the US",44.5,-100.0
+41,2008,Tennessee,TN,"McCain, John",republican,1479178,TN,"Obama, Barack H.",democrat,1087437,2599749,"Tennessee, USA",35.860119,-86.660156
+42,2008,Texas,TX,"McCain, John",republican,4479328,TX,"Obama, Barack H.",democrat,3528633,8077795,"Texas, the USA",31.0,-100.0
+43,2008,Utah,UT,"McCain, John",republican,596030,UT,"Obama, Barack H.",democrat,327670,952370,"Utah, USA",39.41922,-111.95068400000001
+44,2008,Vermont,VT,"McCain, John",republican,98974,VT,"Obama, Barack H.",democrat,219262,325046,"Vermont, the USA",44.0,-72.699997
+45,2008,Virginia,VA,"McCain, John",republican,1725005,VA,"Obama, Barack H.",democrat,1959532,3723260,"Virginia, USA",37.926868,-78.024902
+46,2008,Washington,WA,"McCain, John",republican,1229216,WA,"Obama, Barack H.",democrat,1750848,3036878,"Washington State, the USA",47.751076,-120.74013500000001
+47,2008,West Virginia,WV,"McCain, John",republican,397466,WV,"Obama, Barack H.",democrat,303857,713451,"West Virginia, the US",39.0,-80.5
+48,2008,Wisconsin,WI,"McCain, John",republican,1262393,WI,"Obama, Barack H.",democrat,1677211,2983417,"Wisconsin, the USA",44.5,-89.5
+49,2008,Wyoming,WY,"McCain, John",republican,164958,WY,"Obama, Barack H.",democrat,82868,254904,"Wyoming, USA",43.07597,-107.290283

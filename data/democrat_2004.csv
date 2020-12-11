@@ -1,0 +1,51 @@
+index,year,state,state_po,candidate,party,candidatevotes,totalvotes
+2412,2004,Alabama,AL,"Kerry, John",democrat,693933,1883415
+2416,2004,Alaska,AK,"Kerry, John",democrat,111025,312598
+2423,2004,Arizona,AZ,"Kerry, John",democrat,893524,2012585
+2427,2004,Arkansas,AR,"Kerry, John",democrat,469953,1054945
+2432,2004,California,CA,"Kerry, John",democrat,6745485,12421353
+2440,2004,Colorado,CO,"Kerry, John",democrat,1001732,2129630
+2451,2004,Connecticut,CT,"Kerry, John",democrat,857488,1578769
+2458,2004,Delaware,DE,"Kerry, John",democrat,200152,375190
+2465,2004,District of Columbia,DC,"Kerry, John",democrat,202970,227586
+2473,2004,Florida,FL,"Kerry, John",democrat,3583544,7609810
+2481,2004,Georgia,GA,"Kerry, John",democrat,1366149,3301875
+2484,2004,Hawaii,HI,"Kerry, John",democrat,231708,429013
+2489,2004,Idaho,ID,"Kerry, John",democrat,181098,598376
+2493,2004,Illinois,IL,"Kerry, John",democrat,2891550,5274322
+2498,2004,Indiana,IN,"Kerry, John",democrat,969011,2468002
+2502,2004,Iowa,IA,"Kerry, John",democrat,741898,1506908
+2510,2004,Kansas,KS,"Kerry, John",democrat,434993,1187756
+2516,2004,Kentucky,KY,"Kerry, John",democrat,712733,1795882
+2522,2004,Louisiana,LA,"Kerry, John",democrat,820299,1943106
+2530,2004,Maine,ME,"Kerry, John",democrat,396842,740752
+2537,2004,Maryland,MD,"Kerry, John",democrat,1334493,2384238
+2545,2004,Massachusetts,MA,"Kerry, John",democrat,1803800,2927455
+2552,2004,Michigan,MI,"Kerry, John",democrat,2479183,4839252
+2570,2004,Mississippi,MS,"Kerry, John",democrat,457766,1139824
+2577,2004,Missouri,MO,"Kerry, John",democrat,1259171,2731364
+2582,2004,Montana,MT,"Kerry, John",democrat,173710,450434
+2588,2004,Nebraska,NE,"Kerry, John",democrat,254328,778186
+2595,2004,Nevada,NV,"Kerry, John",democrat,397190,829587
+2601,2004,New Hampshire,NH,"Kerry, John",democrat,340511,678287
+2606,2004,New Jersey,NJ,"Kerry, John",democrat,1911430,3611691
+2610,2004,New Mexico,NM,"Kerry, John",democrat,370942,756304
+2615,2004,New York,NY,"Kerry, John",democrat,4180755,7448266
+2626,2004,North Carolina,NC,"Kerry, John",democrat,1525849,3501007
+2630,2004,North Dakota,ND,"Kerry, John",democrat,111052,312833
+2636,2004,Ohio,OH,"Kerry, John",democrat,2741165,5627903
+2640,2004,Oklahoma,OK,"Kerry, John",democrat,503966,1463758
+2641,2004,Oregon,OR,"Kerry, John",democrat,943163,1836782
+2647,2004,Pennsylvania,PA,"Kerry, John",democrat,2938095,5769590
+2654,2004,Rhode Island,RI,"Kerry, John",democrat,259760,437134
+2663,2004,South Carolina,SC,"Kerry, John",democrat,661669,1617700
+2670,2004,South Dakota,SD,"Kerry, John",democrat,149244,388215
+2675,2004,Tennessee,TN,"Kerry, John",democrat,1036477,2437319
+2679,2004,Texas,TX,"Kerry, John",democrat,2832704,7410749
+2683,2004,Utah,UT,"Kerry, John",democrat,241199,927844
+2690,2004,Vermont,VT,"Kerry, John",democrat,184067,312309
+2698,2004,Virginia,VA,"Kerry, John",democrat,1454742,3195415
+2702,2004,Washington,WA,"Kerry, John",democrat,1510201,2859084
+2712,2004,West Virginia,WV,"Kerry, John",democrat,326541,755792
+2716,2004,Wisconsin,WI,"Kerry, John",democrat,1489504,2997007
+2723,2004,Wyoming,WY,"Kerry, John",democrat,70776,243861

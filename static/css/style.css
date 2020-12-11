@@ -1,0 +1,106 @@
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+.nav-link {
+    font-size: 25px;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 30px;
+}
+
+
+.paragraph {
+    font-size: 25px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 25px;
+    margin-top: 25px;
+    
+}
+
+.header {
+    font: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.sub_header {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 125px;
+}
+
+body {
+    background-color: rgb(242, 188, 188);
+}
+
+.bio_images {
+    margin-top: 135px;
+}
+
+.flag_pic {
+    float: right;
+    margin-top: 175px;
+}
+
+#selectOption {
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#d3Id {
+    margin-top: 50px;
+}
+
+#map_1,
+body,
+html {
+  height: 100%;
+}
+
+#map_2,
+body,
+html {
+  height: 100%;
+}
+
+#map_3,
+body,
+html {
+  height: 100%;
+}
+
+.tooltip {
+    position: absolute;
+    width: 135px;
+    height: 60px;
+    padding: 2px;
+    padding-top: 8px;
+    font: 12px sans-serif;
+    color: white;
+    text-align: center;
+    background: #551aaf;
+    border: 0;
+    border-radius: 10px;
+  }
+  
+  .axisText {
+    font-family: sans-serif;
+    font-weight: bold;
+    fill: #551aaf;
+    text-anchor: middle;
+  }
+

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Group Project 2</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+  </head>
+  <body>
+    
+ 
+        <nav class="navbar navbar-expand-sm bg-primary navbar-dark fixed-top">
+            <!-- Brand/logo -->
+              <a class="navbar-brand" href="index.html">Election Data</a>
+            
+            <!-- Links -->
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="vis_1.html">Visualization 1</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="vis_2.html">Visualization 2</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="vis_3.html">Visualization 3</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="bio_page.html">Bio Page</a>
+              </li>
+            </ul>
+
+        </nav>
+
+  <div class=container>
+  <div class=row>
+
+  <div class="col-md-8 col-xs-6">
+    <h2 class="sub_header">
+      Project Summary
+    </h2>
+    <p class="paragraph">
+ 
+      Our group created an interactive data visualization of the
+      presidential election data from 2000 to 2016.  We obtained
+      the data from the following sources: 
+      <br>
+      1. <a href="https://electionlab.mit.edu/data">MIT Election Lab Data</a>
+      <br>
+      2. <a href=" http://www.electproject.org/home/voter-turnout/voter-turnout-data">Election Project</a>
+      <br>
+    </p>
+    <p class="paragraph">
+      The data was obtained as CSV files and cleaned using Jupyter notebook.
+      A database was created in Postgres for the data to be imported into.
+      Visualizations were created utilizing JavaScript, D3, HTML and CSS.
+      Then a flask server was created to run the HTML, CSS and JavaScript files.
+    </p>
+    <p class="paragraph">
+      CSV data files were converted into geoJson files for 
+      mapping data.  <a href="https://www.mapbox.com/about/maps/">Mapbox</a>
+      was used to create the base layer map. 
+    </p>
+   
+    </div>
+
+      <div class="col-md-4 col-xs-6">
+        <img class="flag_pic" src="images/usa2.jpg" alt="flag">
+    </div>
+  
+</div>
+</div>
+  
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+,year,state,state_po_Rep,candidate_Rep,party_Rep,candidatevotes_Rep,state_po_Dem,candidate_Dem,party_Dem,candidatevotes_Dem,totalvotes,Place Name,Latitude,Longitude
+0,2012,Alabama,AL,"Romney, Mitt",republican,1255925,AL,"Obama, Barack H.",democrat,795696,2074338,"Alabama, USA",32.31823,-86.902298
+1,2012,Alaska,AK,"Romney, Mitt",republican,164676,AK,"Obama, Barack H.",democrat,122640,300495,"Alaska, USA",66.160507,-153.36914099999998
+2,2012,Arizona,AZ,"Romney, Mitt",republican,1233654,AZ,"Obama, Barack H.",democrat,1025232,2299254,"Arizona, USA",34.048927,-111.09373500000001
+3,2012,Arkansas,AR,"Romney, Mitt",republican,647744,AR,"Obama, Barack H.",democrat,394409,1069468,"Arkansas, the US",34.799999,-92.199997
+4,2012,California,CA,"Romney, Mitt",republican,4839958,CA,"Obama, Barack H.",democrat,7854285,13038547,"California, the USA",36.778259000000006,-119.41793100000001
+5,2012,Colorado,CO,"Romney, Mitt",republican,1185243,CO,"Obama, Barack H.",democrat,1323101,2569516,"Colorado, USA",39.113014,-105.35888700000001
+6,2012,Connecticut,CT,"Romney, Mitt",republican,634892,CT,"Obama, Barack H.",democrat,905083,1558204,"Connecticut, the US",41.599998,-72.699997
+7,2012,Delaware,DE,"Romney, Mitt",republican,165484,DE,"Obama, Barack H.",democrat,242584,413890,"Delaware, the US",39.0,-75.5
+8,2012,Florida,FL,"Romney, Mitt",republican,4163447,FL,"Obama, Barack H.",democrat,4237756,8474179,"Florida, USA",27.994402,-81.760254
+9,2012,Georgia,GA,"Romney, Mitt",republican,2078688,GA,"Obama, Barack H.",democrat,1773827,3897839,"Georgia, the USA",33.247875,-83.441162
+10,2012,Hawaii,HI,"Romney, Mitt",republican,121015,HI,"Obama, Barack H.",democrat,306658,437159,"Hawaii, USA",19.741754999999998,-155.844437
+11,2012,Idaho,ID,"Romney, Mitt",republican,420911,ID,"Obama, Barack H.",democrat,212787,652274,"Idaho, USA",44.068203000000004,-114.742043
+12,2012,Illinois,IL,"Romney, Mitt",republican,2135216,IL,"Obama, Barack H.",democrat,3019512,5242014,"Illinois, the US",40.0,-89.0
+13,2012,Indiana,IN,"Romney, Mitt",republican,1420543,IN,"Obama, Barack H.",democrat,1152887,2624534,"Indiana, USA",40.273502,-86.126976
+14,2012,Iowa,IA,"Romney, Mitt",republican,730617,IA,"Obama, Barack H.",democrat,822544,1582180,"Iowa, the USA",42.032973999999996,-93.58154300000001
+15,2012,Kansas,KS,"Romney, Mitt",republican,692634,KS,"Obama, Barack H.",democrat,440726,1159971,"Kansas, the US",38.5,-98.0
+16,2012,Kentucky,KY,"Romney, Mitt",republican,1087190,KY,"Obama, Barack H.",democrat,679370,1797212,"Kentucky, USA",37.839333,-84.27002
+17,2012,Louisiana,LA,"Romney, Mitt",republican,1152262,LA,"Obama, Barack H.",democrat,809141,1994065,"Louisiana, USA",30.39183,-92.329102
+18,2012,Maine,ME,"Romney, Mitt",republican,292276,ME,"Obama, Barack H.",democrat,401306,724758,"Maine, the USA",45.367584,-68.97216800000001
+19,2012,Maryland,MD,"Romney, Mitt",republican,971869,MD,"Obama, Barack H.",democrat,1677844,2707327,"Maryland, USA",39.045753000000005,-76.641273
+20,2012,Massachusetts,MA,"Romney, Mitt",republican,1188314,MA,"Obama, Barack H.",democrat,1921290,3184196,"Massachusetts, USA",42.407211,-71.382439
+21,2012,Michigan,MI,"Romney, Mitt",republican,2115256,MI,"Obama, Barack H.",democrat,2564569,4730961,"Michigan, USA",44.182204999999996,-84.50683599999999
+22,2012,Mississippi,MS,"Romney, Mitt",republican,710746,MS,"Obama, Barack H.",democrat,562949,1285584,"Mississippi, the US",33.0,-90.0
+23,2012,Missouri,MO,"Romney, Mitt",republican,1482440,MO,"Obama, Barack H.",democrat,1223796,2757323,"Missouri, USA",38.573935999999996,-92.60376
+24,2012,Montana,MT,"Romney, Mitt",republican,267928,MT,"Obama, Barack H.",democrat,201839,484048,"Montana, USA",46.96526,-109.53369099999999
+25,2012,Nebraska,NE,"Romney, Mitt",republican,475064,NE,"Obama, Barack H.",democrat,302081,794379,"Nebraska, the US",41.5,-100.0
+26,2012,Nevada,NV,"Romney, Mitt",republican,463567,NV,"Obama, Barack H.",democrat,531373,1014918,"Nevada, USA",39.876019,-117.224121
+27,2012,New Hampshire,NH,"Romney, Mitt",republican,329918,NH,"Obama, Barack H.",democrat,369561,710972,"New Hampshire, the US",44.0,-71.5
+28,2012,New Jersey,NJ,"Romney, Mitt",republican,1478088,NJ,"Obama, Barack H.",democrat,2122786,3638499,"New Jersey, USA",39.833851,-74.871826
+29,2012,New Mexico,NM,"Romney, Mitt",republican,335788,NM,"Obama, Barack H.",democrat,415335,783758,"New Mexico, USA",34.307144,-106.01806599999999
+30,2012,New York,NY,"Romney, Mitt",republican,2223397,NY,"Obama, Barack H.",democrat,4324228,7116784,"New York, the US",43.0,-75.0
+31,2012,North Carolina,NC,"Romney, Mitt",republican,2270395,NC,"Obama, Barack H.",democrat,2178391,4505372,"North Carolina, USA",35.782169,-80.79345699999999
+32,2012,North Dakota,ND,"Romney, Mitt",republican,188320,ND,"Obama, Barack H.",democrat,124966,322932,"North Dakota, USA",47.650589000000004,-100.437012
+33,2012,Ohio,OH,"Romney, Mitt",republican,2661407,OH,"Obama, Barack H.",democrat,2827621,5580822,"Ohio, USA",40.367474,-82.996216
+34,2012,Oklahoma,OK,"Romney, Mitt",republican,891325,OK,"Obama, Barack H.",democrat,443547,1334872,"Oklahoma, the USA",36.084621000000006,-96.921387
+35,2012,Oregon,OR,"Romney, Mitt",republican,754175,OR,"Obama, Barack H.",democrat,970488,1789270,"Oregon, the US",44.0,-120.5
+36,2012,Pennsylvania,PA,"Romney, Mitt",republican,2680434,PA,"Obama, Barack H.",democrat,2990274,5742040,"Pennsylvania, USA",41.203323,-77.19452700000001
+37,2012,Rhode Island,RI,"Romney, Mitt",republican,157204,RI,"Obama, Barack H.",democrat,279677,446049,"Rhode Island, the US",41.700001,-71.5
+38,2012,South Carolina,SC,"Romney, Mitt",republican,1071645,SC,"Obama, Barack H.",democrat,865941,1964118,"South Carolina, USA",33.836082,-81.16372700000001
+39,2012,South Dakota,SD,"Romney, Mitt",republican,210610,SD,"Obama, Barack H.",democrat,145039,363815,"South Dakota, the US",44.5,-100.0
+40,2012,Tennessee,TN,"Romney, Mitt",republican,1462330,TN,"Obama, Barack H.",democrat,960709,2458577,"Tennessee, USA",35.860119,-86.660156
+41,2012,Texas,TX,"Romney, Mitt",republican,4569843,TX,"Obama, Barack H.",democrat,3308124,7993851,"Texas, the USA",31.0,-100.0
+42,2012,Utah,UT,"Romney, Mitt",republican,740600,UT,"Obama, Barack H.",democrat,251813,1017440,"Utah, USA",39.41922,-111.95068400000001
+43,2012,Vermont,VT,"Romney, Mitt",republican,92698,VT,"Obama, Barack H.",democrat,199239,299290,"Vermont, the USA",44.0,-72.699997
+44,2012,Virginia,VA,"Romney, Mitt",republican,1822522,VA,"Obama, Barack H.",democrat,1971820,3854489,"Virginia, USA",37.926868,-78.024902
+45,2012,Washington,WA,"Mitt, Romney",republican,1290670,WA,"Obama, Barack H.",democrat,1755396,3125516,"Washington State, the USA",47.751076,-120.74013500000001
+46,2012,West Virginia,WV,"Romney, Mitt",republican,417655,WV,"Obama, Barack H.",democrat,238269,670438,"West Virginia, the US",39.0,-80.5
+47,2012,Wisconsin,WI,"Romney, Mitt",republican,1410966,WI,"Obama, Barack H.",democrat,1620985,3071434,"Wisconsin, the USA",44.5,-89.5
+48,2012,Wyoming,WY,"Romney, Mitt",republican,170962,WY,"Obama, Barack H.",democrat,69286,250701,"Wyoming, USA",43.07597,-107.290283
