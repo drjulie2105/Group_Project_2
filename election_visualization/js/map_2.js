@@ -4,14 +4,6 @@ var myMap = L.map("map_2", {
     zoom: 5
   });
 
-// Fetch geojson data
-fetch("data/lat_long_2000.geojson")
-  .then(function(resp) {
-    return resp.json();
-  })
-  .then(function(data) {
-    L.geoJson(data).addTo(myMap);
-  });
 
 // Add a tile layer
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -23,24 +15,31 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: "pk.eyJ1IjoiamFwNDMyMTAiLCJhIjoiY2toZmdpZGV3MGNlYzJxb2oxY2YxN3lreCJ9.03_5PIUOCTpSUSFkNaNqxA"
 }).addTo(myMap);
 
+// Store API query variables
+var baseURL = "INSERT URL HERE";
+var totalvotes = "INSERT API CALL FOR TOTAL VOTES";
 
 
-// var heatArray = [];
+// Assemble API query URL
+var url = baseURL + totalvotes;
 
-//   for (var i = 0; i < response.length; i++) {
-//     var geometry = response[i].geometry;
+d3.json(url, function(response) {
 
-//     if (location) {
-//       heatArray.push([geometry.coordinates[1], geometry.coordinates[0]]);
-//     }
-//   }
+  console.log(response);
 
-//   var heat = L.heatLayer(heatArray, {
-//     radius: 30,
-//     blur: 20
-//   }).addTo(myMap);
+  var heatArray = [];
 
+  for (var i = 0; i < response.length; i++) {
+    var geometry = response[i].geometry;
 
+    if (location) {
+      heatArray.push([geometry.coordinates[1], geometry.coordinates[0]]);
+    }
+  }
 
+  var heat = L.heatLayer(heatArray, {
+    radius: 30,
+    blur: 20
+  }).addTo(myMap);
 
-
+});
