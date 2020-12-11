@@ -19,16 +19,14 @@ con = psycopg2.connect("postgresql://postgres:p3nny@localhost:5432/voting_turnou
 cursor = con.cursor()
 
 
-
-
-
-
-
-
 @app.route("/")
 @app.route("/home.html")
 def home():
     return render_template('home.html')
+
+@app.route("/vis_1.html")
+def vis_1():
+    return render_template('vis_1.html')
 
 @app.route("/vis_2.html")
 def vis_2():

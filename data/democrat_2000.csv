@@ -1,0 +1,51 @@
+index,year,state,state_po,candidate,party,candidatevotes,totalvotes
+2043,2000,Alabama,AL,"Gore, Al",democrat,692611,1666272
+2048,2000,Alaska,AK,"Gore, Al",democrat,79004,285560
+2056,2000,Arizona,AZ,"Gore, Al",democrat,685341,1532016
+2063,2000,Arkansas,AR,"Gore, Al",democrat,422768,921781
+2069,2000,California,CA,"Gore, Al",democrat,5861203,10965822
+2077,2000,Colorado,CO,"Gore, Al",democrat,738227,1741368
+2086,2000,Connecticut,CT,"Gore, Al",democrat,816015,1459525
+2093,2000,Delaware,DE,"Gore, Al",democrat,180068,327529
+2100,2000,District of Columbia,DC,"Gore, Al",democrat,171923,201894
+2107,2000,Florida,FL,"Gore, Al",democrat,2912253,5963110
+2118,2000,Georgia,GA,"Gore, Al",democrat,1116230,2583208
+2121,2000,Hawaii,HI,"Gore, Al",democrat,205286,367951
+2129,2000,Idaho,ID,"Gore, Al",democrat,138637,501615
+2135,2000,Illinois,IL,"Gore, Al",democrat,2589026,4742108
+2143,2000,Indiana,IN,"Gore, Al",democrat,901980,2199302
+2147,2000,Iowa,IA,"Gore, Al",democrat,638517,1353022
+2159,2000,Kansas,KS,"Gore, Al",democrat,399276,1072216
+2165,2000,Kentucky,KY,"Gore, Al",democrat,638923,1544106
+2173,2000,Louisiana,LA,"Gore, Al",democrat,792344,1765656
+2180,2000,Maine,ME,"Gore, Al",democrat,319951,651817
+2187,2000,Maryland,MD,"Gore, Al",democrat,1144008,2025212
+2195,2000,Massachusetts,MA,"Gore, Al",democrat,1616487,2733964
+2203,2000,Michigan,MI,"Gore, Al",democrat,2170418,4232501
+2220,2000,Mississippi,MS,"Gore, Al",democrat,404614,994184
+2227,2000,Missouri,MO,"Gore, Al",democrat,1111138,2359892
+2234,2000,Montana,MT,"Gore, Al",democrat,137126,410986
+2241,2000,Nebraska,NE,"Gore, Al",democrat,231780,697019
+2247,2000,Nevada,NV,"Gore, Al",democrat,279978,609426
+2257,2000,New Hampshire,NH,"Gore, Al",democrat,266348,569081
+2263,2000,New Jersey,NJ,"Gore, Al",democrat,1788850,3187226
+2266,2000,New Mexico,NM,"Gore, Al",democrat,286783,598605
+2273,2000,New York,NY,"Gore, Al",democrat,3942215,6960215
+2288,2000,North Carolina,NC,"Gore, Al",democrat,1257692,2914990
+2293,2000,North Dakota,ND,"Gore, Al",democrat,95284,288256
+2298,2000,Ohio,OH,"Gore, Al",democrat,2183628,4701998
+2303,2000,Oklahoma,OK,"Gore, Al",democrat,474276,1234229
+2306,2000,Oregon,OR,"Gore, Al",democrat,720342,1533950
+2314,2000,Pennsylvania,PA,"Gore, Al",democrat,2485967,4912185
+2320,2000,Rhode Island,RI,"Gore, Al",democrat,249508,409112
+2332,2000,South Carolina,SC,"Gore, Al",democrat,566037,1383902
+2339,2000,South Dakota,SD,"Gore, Al",democrat,118804,316269
+2344,2000,Tennessee,TN,"Gore, Al",democrat,981720,2076181
+2348,2000,Texas,TX,"Gore, Al",democrat,2433746,6407637
+2354,2000,Utah,UT,"Gore, Al",democrat,203053,770754
+2363,2000,Vermont,VT,"Gore, Al",democrat,149022,294308
+2375,2000,Virginia,VA,"Gore, Al",democrat,1217290,2739447
+2381,2000,Washington,WA,"Gore, Al",democrat,1247652,2487433
+2392,2000,West Virginia,WV,"Gore, Al",democrat,295497,648124
+2398,2000,Wisconsin,WI,"Gore, Al",democrat,1242987,2598607
+2406,2000,Wyoming,WY,"Gore, Al",democrat,60481,213726
