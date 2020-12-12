@@ -32,6 +32,9 @@ These are the steps we took as milestones to merge the data sets: importing file
 
 In order to run index.html file click this link: https://drjulie2105.github.io/Group_Project_2/
 
+### Final Report 
+https://docs.google.com/document/d/1xFHF6UEKI4Q0neuvtcP8vjOCys93aZTUoRdefkhuEBk/edit
+
 ## Creators 
 1. Jon Zagorski
 2. Olusegun Olorunfemi
