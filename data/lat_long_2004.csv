@@ -1,0 +1,51 @@
+,year,state,state_po_Rep,candidate_Rep,party_Rep,candidatevotes_Rep,state_po_Dem,candidate_Dem,party_Dem,candidatevotes_Dem,totalvotes,Place Name,Latitude,Longitude
+0,2004,Alabama,AL,"Bush, George W.",republican,1176394,AL,"Kerry, John",democrat,693933,1883415,"Alabama, USA",32.31823,-86.902298
+1,2004,Alaska,AK,"Bush, George W.",republican,190889,AK,"Kerry, John",democrat,111025,312598,"Alaska, USA",66.160507,-153.36914099999998
+2,2004,Arizona,AZ,"Bush, George W.",republican,1104294,AZ,"Kerry, John",democrat,893524,2012585,"Arizona, USA",34.048927,-111.09373500000001
+3,2004,Arkansas,AR,"Bush, George W.",republican,572898,AR,"Kerry, John",democrat,469953,1054945,"Arkansas, the US",34.799999,-92.199997
+4,2004,California,CA,"Bush, George W.",republican,5509826,CA,"Kerry, John",democrat,6745485,12421353,"California, the USA",36.778259000000006,-119.41793100000001
+5,2004,Colorado,CO,"Bush, George W.",republican,1101255,CO,"Kerry, John",democrat,1001732,2129630,"Colorado, USA",39.113014,-105.35888700000001
+6,2004,Connecticut,CT,"Bush, George W.",republican,693826,CT,"Kerry, John",democrat,857488,1578769,"Connecticut, the US",41.599998,-72.699997
+7,2004,Delaware,DE,"Bush, George W.",republican,171660,DE,"Kerry, John",democrat,200152,375190,"Delaware, the US",39.0,-75.5
+8,2004,Florida,FL,"Bush, George W.",republican,3964522,FL,"Kerry, John",democrat,3583544,7609810,"Florida, USA",27.994402,-81.760254
+9,2004,Georgia,GA,"Bush, George W.",republican,1914254,GA,"Kerry, John",democrat,1366149,3301875,"Georgia, the USA",33.247875,-83.441162
+10,2004,Hawaii,HI,"Bush, George W.",republican,194191,HI,"Kerry, John",democrat,231708,429013,"Hawaii, USA",19.741754999999998,-155.844437
+11,2004,Idaho,ID,"Bush, George W.",republican,409235,ID,"Kerry, John",democrat,181098,598376,"Idaho, USA",44.068203000000004,-114.742043
+12,2004,Illinois,IL,"Bush, George W.",republican,2345946,IL,"Kerry, John",democrat,2891550,5274322,"Illinois, the US",40.0,-89.0
+13,2004,Indiana,IN,"Bush, George W.",republican,1479438,IN,"Kerry, John",democrat,969011,2468002,"Indiana, USA",40.273502,-86.126976
+14,2004,Iowa,IA,"Bush, George W.",republican,751957,IA,"Kerry, John",democrat,741898,1506908,"Iowa, the USA",42.032973999999996,-93.58154300000001
+15,2004,Kansas,KS,"Bush, George W.",republican,736456,KS,"Kerry, John",democrat,434993,1187756,"Kansas, the US",38.5,-98.0
+16,2004,Kentucky,KY,"Bush, George W.",republican,1069439,KY,"Kerry, John",democrat,712733,1795882,"Kentucky, USA",37.839333,-84.27002
+17,2004,Louisiana,LA,"Bush, George W.",republican,1102169,LA,"Kerry, John",democrat,820299,1943106,"Louisiana, USA",30.39183,-92.329102
+18,2004,Maine,ME,"Bush, George W.",republican,330201,ME,"Kerry, John",democrat,396842,740752,"Maine, the USA",45.367584,-68.97216800000001
+19,2004,Maryland,MD,"Bush, George W.",republican,1024703,MD,"Kerry, John",democrat,1334493,2384238,"Maryland, USA",39.045753000000005,-76.641273
+20,2004,Maryland,MD,"Bush, George W.",republican,1024703,MD,Other,democrat,7,2384238,"Maryland, USA",39.045753000000005,-76.641273
+21,2004,Massachusetts,MA,"Bush, George W.",republican,1071109,MA,"Kerry, John",democrat,1803800,2927455,"Massachusetts, USA",42.407211,-71.382439
+22,2004,Michigan,MI,"Bush, George W.",republican,2313746,MI,"Kerry, John",democrat,2479183,4839252,"Michigan, USA",44.182204999999996,-84.50683599999999
+23,2004,Mississippi,MS,"Bush, George W.",republican,672660,MS,"Kerry, John",democrat,457766,1139824,"Mississippi, the US",33.0,-90.0
+24,2004,Missouri,MO,"Bush, George W.",republican,1455713,MO,"Kerry, John",democrat,1259171,2731364,"Missouri, USA",38.573935999999996,-92.60376
+25,2004,Montana,MT,"Bush, George W.",republican,266063,MT,"Kerry, John",democrat,173710,450434,"Montana, USA",46.96526,-109.53369099999999
+26,2004,Nebraska,NE,"Bush, George W.",republican,512814,NE,"Kerry, John",democrat,254328,778186,"Nebraska, the US",41.5,-100.0
+27,2004,Nevada,NV,"Bush, George W.",republican,418690,NV,"Kerry, John",democrat,397190,829587,"Nevada, USA",39.876019,-117.224121
+28,2004,New Hampshire,NH,"Bush, George W.",republican,331237,NH,"Kerry, John",democrat,340511,678287,"New Hampshire, the US",44.0,-71.5
+29,2004,New Jersey,NJ,"Bush, George W.",republican,1670003,NJ,"Kerry, John",democrat,1911430,3611691,"New Jersey, USA",39.833851,-74.871826
+30,2004,New Mexico,NM,"Bush, George W.",republican,376930,NM,"Kerry, John",democrat,370942,756304,"New Mexico, USA",34.307144,-106.01806599999999
+31,2004,New York,NY,"Bush, George W.",republican,2806993,NY,"Kerry, John",democrat,4180755,7448266,"New York, the US",43.0,-75.0
+32,2004,North Carolina,NC,"Bush, George W.",republican,1961166,NC,"Kerry, John",democrat,1525849,3501007,"North Carolina, USA",35.782169,-80.79345699999999
+33,2004,North Dakota,ND,"Bush, George W.",republican,196651,ND,"Kerry, John",democrat,111052,312833,"North Dakota, USA",47.650589000000004,-100.437012
+34,2004,Ohio,OH,"Bush, George W.",republican,2859764,OH,"Kerry, John",democrat,2741165,5627903,"Ohio, USA",40.367474,-82.996216
+35,2004,Oklahoma,OK,"Bush, George W.",republican,959792,OK,"Kerry, John",democrat,503966,1463758,"Oklahoma, the USA",36.084621000000006,-96.921387
+36,2004,Oregon,OR,"Bush, George W.",republican,866831,OR,"Kerry, John",democrat,943163,1836782,"Oregon, the US",44.0,-120.5
+37,2004,Pennsylvania,PA,"Bush, George W.",republican,2793847,PA,"Kerry, John",democrat,2938095,5769590,"Pennsylvania, USA",41.203323,-77.19452700000001
+38,2004,Rhode Island,RI,"Bush, George W.",republican,169046,RI,"Kerry, John",democrat,259760,437134,"Rhode Island, the US",41.700001,-71.5
+39,2004,South Carolina,SC,"Bush, George W.",republican,937974,SC,"Kerry, John",democrat,661669,1617700,"South Carolina, USA",33.836082,-81.16372700000001
+40,2004,South Dakota,SD,"Bush, George W.",republican,232584,SD,"Kerry, John",democrat,149244,388215,"South Dakota, the US",44.5,-100.0
+41,2004,Tennessee,TN,"Bush, George W.",republican,1384375,TN,"Kerry, John",democrat,1036477,2437319,"Tennessee, USA",35.860119,-86.660156
+42,2004,Texas,TX,"Bush, George W.",republican,4526917,TX,"Kerry, John",democrat,2832704,7410749,"Texas, the USA",31.0,-100.0
+43,2004,Utah,UT,"Bush, George W.",republican,663742,UT,"Kerry, John",democrat,241199,927844,"Utah, USA",39.41922,-111.95068400000001
+44,2004,Vermont,VT,"Bush, George W.",republican,121180,VT,"Kerry, John",democrat,184067,312309,"Vermont, the USA",44.0,-72.699997
+45,2004,Virginia,VA,"Bush, George W.",republican,1716959,VA,"Kerry, John",democrat,1454742,3195415,"Virginia, USA",37.926868,-78.024902
+46,2004,Washington,WA,"Bush, George W.",republican,1304894,WA,"Kerry, John",democrat,1510201,2859084,"Washington State, the USA",47.751076,-120.74013500000001
+47,2004,West Virginia,WV,"Bush, George W.",republican,423778,WV,"Kerry, John",democrat,326541,755792,"West Virginia, the US",39.0,-80.5
+48,2004,Wisconsin,WI,"Bush, George W.",republican,1478120,WI,"Kerry, John",democrat,1489504,2997007,"Wisconsin, the USA",44.5,-89.5
+49,2004,Wyoming,WY,"Bush, George W.",republican,167629,WY,"Kerry, John",democrat,70776,243861,"Wyoming, USA",43.07597,-107.290283

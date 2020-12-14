@@ -1,0 +1,51 @@
+,year,state,state_po_Rep,candidate_Rep,party_Rep,candidatevotes_Rep,state_po_Dem,candidate_Dem,party_Dem,candidatevotes_Dem,totalvotes
+0,2000,Alabama,AL,"Bush, George W.",republican,941173,AL,"Gore, Al",democrat,692611,1666272
+1,2000,Alaska,AK,"Bush, George W.",republican,167398,AK,"Gore, Al",democrat,79004,285560
+2,2000,Arizona,AZ,"Bush, George W.",republican,781652,AZ,"Gore, Al",democrat,685341,1532016
+3,2000,Arkansas,AR,"Bush, George W.",republican,472940,AR,"Gore, Al",democrat,422768,921781
+4,2000,California,CA,"Bush, George W.",republican,4567429,CA,"Gore, Al",democrat,5861203,10965822
+5,2000,Colorado,CO,"Bush, George W.",republican,883748,CO,"Gore, Al",democrat,738227,1741368
+6,2000,Connecticut,CT,"Bush, George W.",republican,561094,CT,"Gore, Al",democrat,816015,1459525
+7,2000,Delaware,DE,"Bush, George W.",republican,137288,DE,"Gore, Al",democrat,180068,327529
+8,2000,District of Columbia,DC,"Bush, George W.",republican,18073,DC,"Gore, Al",democrat,171923,201894
+9,2000,Florida,FL,"Bush, George W.",republican,2912790,FL,"Gore, Al",democrat,2912253,5963110
+10,2000,Georgia,GA,"Bush, George W.",republican,1419720,GA,"Gore, Al",democrat,1116230,2583208
+11,2000,Hawaii,HI,"Bush, George W.",republican,137845,HI,"Gore, Al",democrat,205286,367951
+12,2000,Idaho,ID,"Bush, George W.",republican,336937,ID,"Gore, Al",democrat,138637,501615
+13,2000,Illinois,IL,"Bush, George W.",republican,2019421,IL,"Gore, Al",democrat,2589026,4742108
+14,2000,Indiana,IN,"Bush, George W.",republican,1245836,IN,"Gore, Al",democrat,901980,2199302
+15,2000,Iowa,IA,"Bush, George W.",republican,634373,IA,"Gore, Al",democrat,638517,1353022
+16,2000,Kansas,KS,"Bush, George W.",republican,622332,KS,"Gore, Al",democrat,399276,1072216
+17,2000,Kentucky,KY,"Bush, George W.",republican,872520,KY,"Gore, Al",democrat,638923,1544106
+18,2000,Louisiana,LA,"Bush, George W.",republican,927871,LA,"Gore, Al",democrat,792344,1765656
+19,2000,Maine,ME,"Bush, George W.",republican,286616,ME,"Gore, Al",democrat,319951,651817
+20,2000,Maryland,MD,"Bush, George W.",republican,813827,MD,"Gore, Al",democrat,1144008,2025212
+21,2000,Massachusetts,MA,"Bush, George W.",republican,878502,MA,"Gore, Al",democrat,1616487,2733964
+22,2000,Michigan,MI,"Bush, George W.",republican,1953139,MI,"Gore, Al",democrat,2170418,4232501
+23,2000,Mississippi,MS,"Bush, George W.",republican,572844,MS,"Gore, Al",democrat,404614,994184
+24,2000,Missouri,MO,"Bush, George W.",republican,1189924,MO,"Gore, Al",democrat,1111138,2359892
+25,2000,Montana,MT,"Bush, George W.",republican,240178,MT,"Gore, Al",democrat,137126,410986
+26,2000,Nebraska,NE,"Bush, George W.",republican,433862,NE,"Gore, Al",democrat,231780,697019
+27,2000,Nevada,NV,"Bush, George W.",republican,301575,NV,"Gore, Al",democrat,279978,609426
+28,2000,New Hampshire,NH,"Bush, George W.",republican,273559,NH,"Gore, Al",democrat,266348,569081
+29,2000,New Jersey,NJ,"Bush, George W.",republican,1284173,NJ,"Gore, Al",democrat,1788850,3187226
+30,2000,New Mexico,NM,"Bush, George W.",republican,286417,NM,"Gore, Al",democrat,286783,598605
+31,2000,New York,NY,"Bush, George W.",republican,2258577,NY,"Gore, Al",democrat,3942215,6960215
+32,2000,North Carolina,NC,"Bush, George W.",republican,1631163,NC,"Gore, Al",democrat,1257692,2914990
+33,2000,North Dakota,ND,"Bush, George W.",republican,174852,ND,"Gore, Al",democrat,95284,288256
+34,2000,Ohio,OH,"Bush, George W.",republican,2350363,OH,"Gore, Al",democrat,2183628,4701998
+35,2000,Oklahoma,OK,"Bush, George W.",republican,744337,OK,"Gore, Al",democrat,474276,1234229
+36,2000,Oregon,OR,"Bush, George W.",republican,713577,OR,"Gore, Al",democrat,720342,1533950
+37,2000,Pennsylvania,PA,"Bush, George W.",republican,2281127,PA,"Gore, Al",democrat,2485967,4912185
+38,2000,Rhode Island,RI,"Bush, George W.",republican,130555,RI,"Gore, Al",democrat,249508,409112
+39,2000,South Carolina,SC,"Bush, George W.",republican,786892,SC,"Gore, Al",democrat,566037,1383902
+40,2000,South Dakota,SD,"Bush, George W.",republican,190700,SD,"Gore, Al",democrat,118804,316269
+41,2000,Tennessee,TN,"Bush, George W.",republican,1061949,TN,"Gore, Al",democrat,981720,2076181
+42,2000,Texas,TX,"Bush, George W.",republican,3799639,TX,"Gore, Al",democrat,2433746,6407637
+43,2000,Utah,UT,"Bush, George W.",republican,515096,UT,"Gore, Al",democrat,203053,770754
+44,2000,Vermont,VT,"Bush, George W.",republican,119775,VT,"Gore, Al",democrat,149022,294308
+45,2000,Virginia,VA,"Bush, George W.",republican,1437490,VA,"Gore, Al",democrat,1217290,2739447
+46,2000,Washington,WA,"Bush, George W.",republican,1108864,WA,"Gore, Al",democrat,1247652,2487433
+47,2000,West Virginia,WV,"Bush, George W.",republican,336475,WV,"Gore, Al",democrat,295497,648124
+48,2000,Wisconsin,WI,"Bush, George W.",republican,1237279,WI,"Gore, Al",democrat,1242987,2598607
+49,2000,Wyoming,WY,"Bush, George W.",republican,147947,WY,"Gore, Al",democrat,60481,213726
