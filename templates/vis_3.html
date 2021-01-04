@@ -16,8 +16,10 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
 
     <!-- Our CSS -->
-    <link rel="stylesheet" type="text/css" href="..\static\css\style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="..\static\css\style.css"> -->
 
+      <!-- Link to CSS sheet when using flask app -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   </head>
   <body>
     
@@ -69,8 +71,8 @@
 
     <!-- JS -->
     
-    <script type="text/javascript" src="static\js\double_bar_chart.js"></script>
+    <!-- <script type="text/javascript" src="..\static\js\double_bar_chart.js"></script> -->
 
-   
+    <script src="{{ url_for('static', filename='js/double_bar_chart.js') }}"></script>
   </body>
 </html>

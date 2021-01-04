@@ -6,17 +6,24 @@ import json
 from flask import Flask, jsonify , render_template
 TEMPLATE_DIR = os.path.abspath('templates')
 STATIC_DIR = os.path.abspath('static')
+IMAGE_FOLDER =os.path.join('static', 'images')
 app = Flask(__name__, template_folder=TEMPLATE_DIR, static_folder=STATIC_DIR)
 
+
+app.config['UPLOAD_FOLDER']=IMAGE_FOLDER
 # con = psycopg2.connect("postgresql://postgres:p3nny@localhost:5432/voting_turnout")
+
+
+## connect to heroku or AWS here (can use psycopg2 or sqalchemy)
 
 # cursor = con.cursor()
 
 
 @app.route("/")
-@app.route("/home.html")
+@app.route("/index.html")
 def home():
-    return render_template('home.html')
+    full_filename=os.path.join(app.config['UPLOAD_FOLDER'], 'usa2.jpg')
+    return render_template("index.html", user_image=full_filename)
 
 @app.route("/vis_1.html")
 def vis_1():
@@ -43,6 +50,7 @@ def heatmap_2000():
         data = json.load(test_file)
 
     return data
+
 
 # @app.route("/api/v1.0/Democrat_2000", methods=['post', 'get'])
 # def demo00():  

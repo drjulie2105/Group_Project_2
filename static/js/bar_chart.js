@@ -37,7 +37,10 @@ var chartGroup = svg.append("g")
 // // Load data from csv
 
 d3.csv(`../data/merge_df_${electionYear}.csv`).then(function(electionData) {
-  
+
+// Pulling from AWS example--put link to data from AWS here 
+// d3.json(`/api/v1.0/Democrat_${electionYear}`).then(function(electionData))
+
   console.log(electionData);
 
 // d3.csv("data/merge_df_2000.csv").then(function(electionData) {
